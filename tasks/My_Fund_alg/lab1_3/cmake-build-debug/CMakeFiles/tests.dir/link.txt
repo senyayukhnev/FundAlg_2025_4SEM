@@ -1,0 +1,1 @@
+/usr/bin/c++ -g --coverage -fprofile-arcs -ftest-coverage CMakeFiles/tests.dir/tests/test_deque.cpp.o -o tests  libmy_lib.a lib/libgtest_main.a lib/libgtest.a 

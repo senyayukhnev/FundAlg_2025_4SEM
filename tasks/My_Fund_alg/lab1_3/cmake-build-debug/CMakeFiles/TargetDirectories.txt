@@ -1,0 +1,15 @@
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/CMakeFiles/my_lib.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/CMakeFiles/tests.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/CMakeFiles/coverage.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/CMakeFiles/cppcheck.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/CMakeFiles/test.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/_deps/googletest-build/CMakeFiles/test.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/_deps/googletest-build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/_deps/googletest-build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/_deps/googletest-build/googletest/CMakeFiles/gtest.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/_deps/googletest-build/googletest/CMakeFiles/test.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/_deps/googletest-build/googletest/CMakeFiles/edit_cache.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab1_3/cmake-build-debug/_deps/googletest-build/googletest/CMakeFiles/rebuild_cache.dir

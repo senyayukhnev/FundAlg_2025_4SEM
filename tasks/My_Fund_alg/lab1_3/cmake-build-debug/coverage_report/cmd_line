@@ -1,0 +1,1 @@
+genhtml --ignore-errors mismatch coverage_filtered.info --output-directory coverage_report

@@ -1,0 +1,9 @@
+# CMake generated Testfile for 
+# Source directory: /mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab2_1
+# Build directory: /mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab2_1/cmake-build-debug
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test([=[MyTests]=] "/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab2_1/cmake-build-debug/tests")
+set_tests_properties([=[MyTests]=] PROPERTIES  _BACKTRACE_TRIPLES "/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab2_1/CMakeLists.txt;66;add_test;/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/lab2_1/CMakeLists.txt;0;")
+subdirs("_deps/googletest-build")

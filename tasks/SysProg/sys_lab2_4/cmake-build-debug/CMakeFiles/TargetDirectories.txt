@@ -1,0 +1,3 @@
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/SysProg/sys_lab2_4/cmake-build-debug/CMakeFiles/ex4.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/SysProg/sys_lab2_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/SysProg/sys_lab2_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

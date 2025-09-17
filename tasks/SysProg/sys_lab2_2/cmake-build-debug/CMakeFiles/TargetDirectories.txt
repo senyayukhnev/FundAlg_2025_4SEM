@@ -1,0 +1,3 @@
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/sys_lab2_2/cmake-build-debug/CMakeFiles/ex2.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/sys_lab2_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/sys_lab2_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

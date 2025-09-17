@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Fund_alg" targetName="my_lib" />
+      <config projectName="Fund_alg" targetName="gtest_main" />
+      <config projectName="Fund_alg" targetName="tests" />
+      <config projectName="Fund_alg" targetName="coverage" />
+      <config projectName="Fund_alg" targetName="cppcheck" />
+      <config projectName="Fund_alg" targetName="gtest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed369700-b761-4c6d-917f-0faa3fd0cd97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/fund_alg_4sem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/.idea/lab1_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/include/container.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/include/list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/src/container.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/src/list.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2/tests/test_list.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/container.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/deque.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deque.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_deque.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_4/include/container.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_4/include/deque.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_4/include/list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_4/include/stack.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_4/src/stack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_4/test/test_stack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_5/include/container.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_5/include/deque.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_5/include/list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_5/include/vector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_5/src/vector.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_5/test/test_vector.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_6/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_6/include/unique_ptr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_6/src/unique_ptr.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_6/test/unique_ptr_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_1/include/big_int.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_1/src/big_int.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_1/test/test_big_int.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/include/big_int.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/src/big_int.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/test/test_big_int.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/Progress/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/lab2.dir/compiler_depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/lab2.dir/compiler_depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/lab2.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/lab2.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/lab2.dir/lab2/lab2.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/lab2.dir/lab2/lab2.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent.dir/lab1/parent.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent.dir/lab1/parent.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent.dir/lab1/parent.c.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent.dir/lab1/parent.c.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent_3.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent_3.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent_3.dir/lab3/parent_3.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent_3.dir/lab3/parent_3.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent_3.dir/lab3/parent_3.c.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/CMakeFiles/parent_3.dir/lab3/parent_3.c.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/parent" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/parent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/parent_3" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/cmake-build-debug/parent_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/lab1/ch1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/lab1/ch1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/lab1/ch2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/lab1/ch2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/lab1/parent" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/lab1/parent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/lab2/lab2.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/lab2/lab2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/lab3/ch1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/lab3/ch1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OC_lab/lab3/ch2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../OC_lab/lab3/ch2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test Results - tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_1/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_1/include/arr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_1/include/container.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_1/src/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_1/tests/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_1/tests/test_main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fund_list/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../fund_list/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fund_list/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../fund_list/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fund_list/tests/tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../fund_list/tests/tests.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/Zachet/concat_bms.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/Zachet/concat_bms.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/Zachet/fprintf_bms.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/Zachet/fprintf_bms.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/Zachet/substr_bms.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/Zachet/substr_bms.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b55b047597d344545ba6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-574fea0fac63c55d52e0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-55c238582c89b8ce6656.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/index-2024-12-21T01-11-41-0317.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-Lexem_count-Debug-46c6d91ace4a4c048c75.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-another6-Debug-06d09f7dea59f0c55506.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-concat-Debug-7fc29e010b0b999565b9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-fprintf-Debug-b983e1ede76f5b8710da.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-lab5_1-Debug-a01d82e21a60708e17a9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-lab5_2-Debug-61b44481f9c3d28f9590.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-lab5_6-Debug-53c73e7d42366dd29612.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba1.c-Debug-e162454d793d7838c8a8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba10-Debug-ebb04bb9f25181ddf877.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba2-Debug-66982c36e59b9aa93dc0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba2_1-Debug-e646ca8d77efd2672210.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba2_10-Debug-d54aeee47ae95c952bba.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba2_2-Debug-a4bd18b1f9001d2f8934.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba2_3-Debug-90bee77344c8757ef52e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba2_4-Debug-7d9850e6431d74ecd8ad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba2_7-Debug-4717bd7776e43fa16742.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba2_8-Debug-5c1b41559f229a3e75cf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba2_9-Debug-6c2e0f5ec0e065f1551a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba3.c-Debug-bda6e4e68fe621951dee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba3_1-Debug-a9c9cc780759ac4d3983.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba3_10-Debug-774148ca7e80dd38d015.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba3_2-Debug-34b875648d1a3113ab9c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba3_3-Debug-cea56c76494bbba00098.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba3_5-Debug-cc03aeb2007dabb934dd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba4-Debug-60263c3a1512a09ad6f5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba5.c-Debug-1e8d9f7104944962a2fc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba5_3-Debug-dd0478ed9bde797e37c1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba5_4-Debug-575d4249cc84f5a964ee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba5_7-Debug-625d86421456aae54ce3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba6.c-Debug-407a7bb87e2152e8e29b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba7-Debug-6a8e90100e6d1dbf3dca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba8-Debug-d61ecbf697e3a150231f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-laba9-Debug-7412f4c0ced6dac1faa5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-sort_by_predicates-Debug-311aef61103776204cc3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/target-substr-Debug-851397fa0455452dbc37.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-f397d5dfd6f01732d294.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/3.29.6/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/lab5_6.dir/Lab5/lab5_6.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/laba3_2.dir/Lab3/laba3_2.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/laba5_7.dir/Lab5/laba5_7.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1.1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sys_prog/FundAlg_2025_4SEM" beforeDir="false" afterPath="$PROJECT_DIR$/../../sys_prog/FundAlg_2025_4SEM" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2xiL38PDmrlObhunhHU7H3y77Dr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Google Test.tests.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "ctest.advertisement.all.test.configuration.is.created": "true",
+    "git-widget-placeholder": "Yukhnev__Arseniy-M8O-212b-23",
+    "last_opened_file_path": "C:/Users/senya/CLionProjects/fund_alg_4sem/lab1_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Google Test.tests">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Fund_alg" TARGET_NAME="tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Fund_alg" RUN_TARGET_NAME="tests" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coverage" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Fund_alg" TARGET_NAME="coverage" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cppcheck" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Fund_alg" TARGET_NAME="cppcheck" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Fund_alg" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Fund_alg" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="my_lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Fund_alg" TARGET_NAME="my_lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All CTest" type="CTestRunConfiguration" factoryName="CTestRun" PROGRAM_PARAMS="--extra-verbose" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$CMakeCurrentLocalGenerationDir$" PASS_PARENT_ENVS_2="true" RUN_PATH="$CTestCurrentExecutableName$" EXPLICIT_BUILD_TARGET_NAME="all" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.coverage" />
+      <item itemvalue="CMake Application.cppcheck" />
+      <item itemvalue="CMake Application.my_lib" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CTest Application.All CTest" />
+      <item itemvalue="Google Test.tests" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed369700-b761-4c6d-917f-0faa3fd0cd97" name="Changes" comment="" />
+      <created>1748415745482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748415745482</updated>
+      <workItem from="1748415746699" duration="994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

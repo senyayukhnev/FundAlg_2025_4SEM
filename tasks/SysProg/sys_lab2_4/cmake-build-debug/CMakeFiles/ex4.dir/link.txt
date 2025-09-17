@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ex4.dir/main.cpp.o CMakeFiles/ex4.dir/src/logger.cpp.o CMakeFiles/ex4.dir/src/elevator.cpp.o -o ex4 

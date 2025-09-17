@@ -1,0 +1,4 @@
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/sys_lab2_1/cmake-build-debug/CMakeFiles/liblogger.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/sys_lab2_1/cmake-build-debug/CMakeFiles/lab2_1.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/sys_lab2_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/senya/CLionProjects/fund_alg_4sem/sys_lab2_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
