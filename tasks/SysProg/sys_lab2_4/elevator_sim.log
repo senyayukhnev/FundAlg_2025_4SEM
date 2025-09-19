@@ -843,3 +843,1405 @@
 [2025-09-18 00:19:50] [INFO] Total Ppl Transported (all elevs): 106
 [2025-09-18 00:19:50] [INFO] Total Floors (all elevs): 296
 [2025-09-18 00:19:50] [INFO] Avg Group Wait: 0.655824s.
+[2025-09-18 17:17:24] [INFO] House created: 3 elevs, 10 floors.
+[2025-09-18 17:17:24] [INFO] Simulation starting...
+[2025-09-18 17:17:24] [INFO] Elev 1 started.
+[2025-09-18 17:17:24] [INFO] Elev 2 started.
+[2025-09-18 17:17:24] [INFO] New call P0 (3ppl): F1->F5. Qsize: 1
+[2025-09-18 17:17:24] [INFO] Elev 3 started.
+[2025-09-18 17:17:24] [INFO] Elev 3 doors open F1
+[2025-09-18 17:17:24] [INFO] Elev 3 sets dir to UP by P0
+[2025-09-18 17:17:24] [INFO] Elev 3 boards P0 (general) (3ppl) at F1
+[2025-09-18 17:17:24] [INFO]    P0 waited 0s
+[2025-09-18 17:17:24] [INFO] Elev 2 doors open F1
+[2025-09-18 17:17:24] [INFO] Elev 2 no board/deboard at F1
+[2025-09-18 17:17:24] [INFO] Elev 3 board/deboard done F1
+[2025-09-18 17:17:24] [INFO] Elev 3 doors closed F1
+[2025-09-18 17:17:24] [INFO] Elev 3 now at F2 (heading UP)
+[2025-09-18 17:17:24] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:17:24] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:25] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:25] [INFO] Elev 3 arrived F5 for service.
+[2025-09-18 17:17:25] [INFO] Elev 3 doors open F5
+[2025-09-18 17:17:25] [INFO] Elev 3 deboards P0 (3ppl) at F5
+[2025-09-18 17:17:25] [INFO] Elev 3 board/deboard done F5
+[2025-09-18 17:17:25] [INFO] Elev 3 doors closed F5
+[2025-09-18 17:17:25] [INFO] New call P1 (1ppl): F1->F3. Qsize: 1
+[2025-09-18 17:17:25] [INFO] Elev 1 doors open F1
+[2025-09-18 17:17:25] [INFO] Elev 1 sets dir to UP by P1
+[2025-09-18 17:17:25] [INFO] Elev 1 boards P1 (general) (1ppl) at F1
+[2025-09-18 17:17:25] [INFO]    P1 waited 0s
+[2025-09-18 17:17:25] [INFO] Elev 1 board/deboard done F1
+[2025-09-18 17:17:25] [INFO] Elev 1 doors closed F1
+[2025-09-18 17:17:25] [INFO] Elev 1 now at F2 (heading UP)
+[2025-09-18 17:17:25] [INFO] Elev 1 now at F3 (heading UP)
+[2025-09-18 17:17:26] [INFO] New call P2 (4ppl): F7->F2. Qsize: 1
+[2025-09-18 17:17:26] [INFO] Elev 3 took new call P2 (4ppl) from F7 to F2
+[2025-09-18 17:17:26] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:26] [INFO] Elev 1 arrived F3 for service.
+[2025-09-18 17:17:26] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:26] [INFO] Elev 1 doors open F3
+[2025-09-18 17:17:26] [INFO] Elev 1 deboards P1 (1ppl) at F3
+[2025-09-18 17:17:26] [INFO] Elev 3 arrived F7 for service.
+[2025-09-18 17:17:26] [INFO] Elev 1 board/deboard done F3
+[2025-09-18 17:17:26] [INFO] Elev 1 doors closed F3
+[2025-09-18 17:17:26] [INFO] Elev 3 doors open F7
+[2025-09-18 17:17:26] [INFO] Elev 3 boards P2 (pending) (4ppl) at F7
+[2025-09-18 17:17:26] [INFO]    P2 waited 0s
+[2025-09-18 17:17:26] [INFO] Elev 3 board/deboard done F7
+[2025-09-18 17:17:26] [INFO] Elev 3 doors closed F7
+[2025-09-18 17:17:26] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:17:26] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:26] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:17:26] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:27] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:17:27] [INFO] Elev 3 arrived F2 for service.
+[2025-09-18 17:17:27] [INFO] New call P3 (4ppl): F5->F4. Qsize: 1
+[2025-09-18 17:17:27] [INFO] Elev 3 doors open F2
+[2025-09-18 17:17:27] [INFO] Elev 3 deboards P2 (4ppl) at F2
+[2025-09-18 17:17:27] [INFO] Elev 3 board/deboard done F2
+[2025-09-18 17:17:27] [INFO] Elev 3 doors closed F2
+[2025-09-18 17:17:27] [INFO] Elev 3 took new call P3 (4ppl) from F5 to F4
+[2025-09-18 17:17:27] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:17:27] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:27] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:27] [INFO] Elev 3 arrived F5 for service.
+[2025-09-18 17:17:27] [INFO] Elev 3 doors open F5
+[2025-09-18 17:17:27] [INFO] Elev 3 boards P3 (pending) (4ppl) at F5
+[2025-09-18 17:17:27] [INFO]    P3 waited 0s
+[2025-09-18 17:17:27] [INFO] Elev 3 board/deboard done F5
+[2025-09-18 17:17:28] [INFO] New call P4 (1ppl): F10->F4. Qsize: 1
+[2025-09-18 17:17:28] [INFO] Elev 1 took new call P4 (1ppl) from F10 to F4
+[2025-09-18 17:17:28] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:17:28] [INFO] Elev 3 doors closed F5
+[2025-09-18 17:17:28] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:17:28] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:17:28] [INFO] Elev 3 arrived F4 for service.
+[2025-09-18 17:17:28] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:17:28] [INFO] Elev 3 doors open F4
+[2025-09-18 17:17:28] [INFO] Elev 3 deboards P3 (4ppl) at F4
+[2025-09-18 17:17:28] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:17:28] [INFO] Elev 3 board/deboard done F4
+[2025-09-18 17:17:28] [INFO] New call P5 (1ppl): F3->F8. Qsize: 1
+[2025-09-18 17:17:28] [INFO] Elev 1 now at F8 (heading UP)
+[2025-09-18 17:17:28] [INFO] Elev 3 doors closed F4
+[2025-09-18 17:17:28] [INFO] Elev 3 took new call P5 (1ppl) from F3 to F8
+[2025-09-18 17:17:28] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:28] [INFO] Elev 1 now at F9 (heading UP)
+[2025-09-18 17:17:28] [INFO] Elev 3 arrived F3 for service.
+[2025-09-18 17:17:28] [INFO] Elev 1 now at F10 (heading UP)
+[2025-09-18 17:17:28] [INFO] Elev 3 doors open F3
+[2025-09-18 17:17:28] [INFO] Elev 3 boards P5 (pending) (1ppl) at F3
+[2025-09-18 17:17:28] [INFO]    P5 waited 0s
+[2025-09-18 17:17:28] [INFO] Elev 1 arrived F10 for service.
+[2025-09-18 17:17:28] [INFO] Elev 3 board/deboard done F3
+[2025-09-18 17:17:28] [INFO] Elev 1 doors open F10
+[2025-09-18 17:17:28] [INFO] Elev 1 boards P4 (pending) (1ppl) at F10
+[2025-09-18 17:17:28] [INFO]    P4 waited 0s
+[2025-09-18 17:17:28] [INFO] Elev 3 doors closed F3
+[2025-09-18 17:17:28] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:29] [INFO] Elev 1 board/deboard done F10
+[2025-09-18 17:17:29] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:29] [INFO] Elev 1 doors closed F10
+[2025-09-18 17:17:29] [INFO] Elev 1 now at F9 (heading DOWN)
+[2025-09-18 17:17:29] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:29] [INFO] Elev 1 now at F8 (heading DOWN)
+[2025-09-18 17:17:29] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:29] [INFO] Elev 1 now at F7 (heading DOWN)
+[2025-09-18 17:17:29] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:29] [INFO] New call P6 (3ppl): F9->F5. Qsize: 1
+[2025-09-18 17:17:29] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:17:29] [INFO] Elev 3 arrived F8 for service.
+[2025-09-18 17:17:29] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:17:29] [INFO] Elev 3 doors open F8
+[2025-09-18 17:17:29] [INFO] Elev 3 deboards P5 (1ppl) at F8
+[2025-09-18 17:17:29] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:17:29] [INFO] Elev 3 board/deboard done F8
+[2025-09-18 17:17:29] [INFO] Elev 1 arrived F4 for service.
+[2025-09-18 17:17:29] [INFO] Elev 3 doors closed F8
+[2025-09-18 17:17:29] [INFO] Elev 3 took new call P6 (3ppl) from F9 to F5
+[2025-09-18 17:17:29] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:17:29] [INFO] Elev 1 doors open F4
+[2025-09-18 17:17:29] [INFO] Elev 1 deboards P4 (1ppl) at F4
+[2025-09-18 17:17:29] [INFO] Elev 3 arrived F9 for service.
+[2025-09-18 17:17:29] [INFO] Elev 1 board/deboard done F4
+[2025-09-18 17:17:29] [INFO] Elev 3 doors open F9
+[2025-09-18 17:17:29] [INFO] Elev 3 boards P6 (pending) (3ppl) at F9
+[2025-09-18 17:17:29] [INFO]    P6 waited 0s
+[2025-09-18 17:17:30] [INFO] Elev 1 doors closed F4
+[2025-09-18 17:17:30] [INFO] Elev 3 board/deboard done F9
+[2025-09-18 17:17:30] [INFO] Elev 3 doors closed F9
+[2025-09-18 17:17:30] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:17:30] [INFO] New call P7 (4ppl): F6->F1. Qsize: 1
+[2025-09-18 17:17:30] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:30] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:17:30] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:30] [INFO] Elev 3 arrived F5 for service.
+[2025-09-18 17:17:30] [INFO] Elev 3 doors open F5
+[2025-09-18 17:17:30] [INFO] Elev 3 deboards P6 (3ppl) at F5
+[2025-09-18 17:17:30] [INFO] Elev 3 board/deboard done F5
+[2025-09-18 17:17:30] [INFO] Elev 3 doors closed F5
+[2025-09-18 17:17:30] [INFO] Elev 3 took new call P7 (4ppl) from F6 to F1
+[2025-09-18 17:17:30] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:31] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:17:31] [INFO] Elev 3 doors open F6
+[2025-09-18 17:17:31] [INFO] Elev 3 boards P7 (pending) (4ppl) at F6
+[2025-09-18 17:17:31] [INFO]    P7 waited 0s
+[2025-09-18 17:17:31] [INFO] New call P8 (4ppl): F10->F3. Qsize: 1
+[2025-09-18 17:17:31] [INFO] Elev 3 board/deboard done F6
+[2025-09-18 17:17:31] [INFO] Elev 3 doors closed F6
+[2025-09-18 17:17:31] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:31] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:17:31] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:31] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:17:31] [INFO] Elev 3 now at F1 (heading DOWN)
+[2025-09-18 17:17:31] [INFO] Elev 3 arrived F1 for service.
+[2025-09-18 17:17:31] [INFO] Elev 3 doors open F1
+[2025-09-18 17:17:31] [INFO] Elev 3 deboards P7 (4ppl) at F1
+[2025-09-18 17:17:32] [INFO] Elev 3 board/deboard done F1
+[2025-09-18 17:17:32] [INFO] Elev 3 doors closed F1
+[2025-09-18 17:17:32] [INFO] Elev 3 took new call P8 (4ppl) from F10 to F3
+[2025-09-18 17:17:32] [INFO] Elev 3 now at F2 (heading UP)
+[2025-09-18 17:17:32] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:17:32] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:32] [INFO] New call P9 (4ppl): F2->F10. Qsize: 1
+[2025-09-18 17:17:32] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:32] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:32] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:32] [INFO] New call P10 (2ppl): F8->F6. Qsize: 2
+[2025-09-18 17:17:32] [INFO] Elev 1 took new call P10 (2ppl) from F8 to F6
+[2025-09-18 17:17:32] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:17:32] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:32] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:17:32] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:17:32] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:17:33] [INFO] Elev 3 now at F10 (heading UP)
+[2025-09-18 17:17:33] [INFO] Elev 1 now at F8 (heading UP)
+[2025-09-18 17:17:33] [INFO] Elev 3 arrived F10 for service.
+[2025-09-18 17:17:33] [INFO] Elev 1 arrived F8 for service.
+[2025-09-18 17:17:33] [INFO] Elev 3 doors open F10
+[2025-09-18 17:17:33] [INFO] Elev 3 boards P8 (pending) (4ppl) at F10
+[2025-09-18 17:17:33] [INFO]    P8 waited 2s
+[2025-09-18 17:17:33] [INFO] Elev 1 doors open F8
+[2025-09-18 17:17:33] [INFO] Elev 1 boards P10 (pending) (2ppl) at F8
+[2025-09-18 17:17:33] [INFO]    P10 waited 0s
+[2025-09-18 17:17:33] [INFO] Elev 3 board/deboard done F10
+[2025-09-18 17:17:33] [INFO] Elev 1 board/deboard done F8
+[2025-09-18 17:17:33] [INFO] New call P11 (4ppl): F7->F10. Qsize: 2
+[2025-09-18 17:17:33] [INFO] Elev 3 doors closed F10
+[2025-09-18 17:17:33] [INFO] Elev 3 now at F9 (heading DOWN)
+[2025-09-18 17:17:33] [INFO] Elev 1 doors closed F8
+[2025-09-18 17:17:33] [INFO] Elev 1 now at F7 (heading DOWN)
+[2025-09-18 17:17:33] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:17:33] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:17:33] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:33] [INFO] Elev 1 arrived F6 for service.
+[2025-09-18 17:17:33] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:17:33] [INFO] Elev 1 doors open F6
+[2025-09-18 17:17:33] [INFO] Elev 1 deboards P10 (2ppl) at F6
+[2025-09-18 17:17:33] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:33] [INFO] Elev 1 board/deboard done F6
+[2025-09-18 17:17:34] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:17:34] [INFO] Elev 1 doors closed F6
+[2025-09-18 17:17:34] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:34] [INFO] Elev 3 arrived F3 for service.
+[2025-09-18 17:17:34] [INFO] Elev 3 doors open F3
+[2025-09-18 17:17:34] [INFO] Elev 3 deboards P8 (4ppl) at F3
+[2025-09-18 17:17:34] [INFO] New call P12 (3ppl): F3->F6. Qsize: 3
+[2025-09-18 17:17:34] [INFO] Elev 3 board/deboard done F3
+[2025-09-18 17:17:34] [INFO] Elev 3 doors closed F3
+[2025-09-18 17:17:34] [INFO] Elev 3 took new call P9 (4ppl) from F2 to F10
+[2025-09-18 17:17:34] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:17:34] [INFO] Elev 3 arrived F2 for service.
+[2025-09-18 17:17:34] [INFO] Elev 3 doors open F2
+[2025-09-18 17:17:34] [INFO] Elev 3 boards P9 (pending) (4ppl) at F2
+[2025-09-18 17:17:34] [INFO]    P9 waited 2s
+[2025-09-18 17:17:34] [INFO] Elev 3 board/deboard done F2
+[2025-09-18 17:17:34] [INFO] Elev 3 doors closed F2
+[2025-09-18 17:17:34] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:17:35] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:35] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:35] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:35] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:35] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:35] [INFO] New call P13 (4ppl): F1->F4. Qsize: 3
+[2025-09-18 17:17:35] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:17:35] [INFO] Elev 3 now at F10 (heading UP)
+[2025-09-18 17:17:35] [INFO] Elev 3 arrived F10 for service.
+[2025-09-18 17:17:35] [INFO] Elev 3 doors open F10
+[2025-09-18 17:17:35] [INFO] Elev 3 deboards P9 (4ppl) at F10
+[2025-09-18 17:17:36] [INFO] Elev 3 board/deboard done F10
+[2025-09-18 17:17:36] [INFO] Elev 3 doors closed F10
+[2025-09-18 17:17:36] [INFO] Elev 3 took new call P11 (4ppl) from F7 to F10
+[2025-09-18 17:17:36] [INFO] Elev 3 now at F9 (heading DOWN)
+[2025-09-18 17:17:36] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:17:36] [INFO] New call P14 (1ppl): F7->F4. Qsize: 3
+[2025-09-18 17:17:36] [INFO] Elev 1 took new call P14 (1ppl) from F7 to F4
+[2025-09-18 17:17:36] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:17:36] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:36] [INFO] Elev 1 arrived F7 for service.
+[2025-09-18 17:17:36] [INFO] Elev 3 arrived F7 for service.
+[2025-09-18 17:17:36] [INFO] Elev 1 doors open F7
+[2025-09-18 17:17:36] [INFO] Elev 1 boards P14 (pending) (1ppl) at F7
+[2025-09-18 17:17:36] [INFO]    P14 waited 0s
+[2025-09-18 17:17:36] [INFO] Elev 3 doors open F7
+[2025-09-18 17:17:36] [INFO] Elev 3 boards P11 (pending) (4ppl) at F7
+[2025-09-18 17:17:36] [INFO]    P11 waited 3s
+[2025-09-18 17:17:36] [INFO] Elev 1 board/deboard done F7
+[2025-09-18 17:17:36] [INFO] Elev 3 board/deboard done F7
+[2025-09-18 17:17:36] [INFO] Elev 1 doors closed F7
+[2025-09-18 17:17:36] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:17:36] [INFO] Elev 3 doors closed F7
+[2025-09-18 17:17:36] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:36] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:17:36] [INFO] New call P15 (4ppl): F2->F3. Qsize: 3
+[2025-09-18 17:17:36] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:17:36] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:17:37] [INFO] Elev 3 now at F10 (heading UP)
+[2025-09-18 17:17:37] [INFO] Elev 1 arrived F4 for service.
+[2025-09-18 17:17:37] [INFO] Elev 3 arrived F10 for service.
+[2025-09-18 17:17:37] [INFO] Elev 1 doors open F4
+[2025-09-18 17:17:37] [INFO] Elev 1 deboards P14 (1ppl) at F4
+[2025-09-18 17:17:37] [INFO] Elev 3 doors open F10
+[2025-09-18 17:17:37] [INFO] Elev 3 deboards P11 (4ppl) at F10
+[2025-09-18 17:17:37] [INFO] Elev 1 board/deboard done F4
+[2025-09-18 17:17:37] [INFO] Elev 3 board/deboard done F10
+[2025-09-18 17:17:37] [INFO] Elev 1 doors closed F4
+[2025-09-18 17:17:37] [INFO] Elev 3 doors closed F10
+[2025-09-18 17:17:37] [INFO] Elev 3 took new call P12 (3ppl) from F3 to F6
+[2025-09-18 17:17:37] [INFO] Elev 3 now at F9 (heading DOWN)
+[2025-09-18 17:17:37] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:17:37] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:37] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:17:37] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:38] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:17:38] [INFO] New call P16 (1ppl): F2->F6. Qsize: 3
+[2025-09-18 17:17:38] [INFO] Elev 1 took new call P16 (1ppl) from F2 to F6
+[2025-09-18 17:17:38] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:17:38] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:38] [INFO] Elev 1 now at F2 (heading DOWN)
+[2025-09-18 17:17:38] [INFO] Elev 3 arrived F3 for service.
+[2025-09-18 17:17:38] [INFO] Elev 1 arrived F2 for service.
+[2025-09-18 17:17:38] [INFO] Elev 3 doors open F3
+[2025-09-18 17:17:38] [INFO] Elev 3 boards P12 (pending) (3ppl) at F3
+[2025-09-18 17:17:38] [INFO]    P12 waited 3s
+[2025-09-18 17:17:38] [INFO] Elev 1 doors open F2
+[2025-09-18 17:17:38] [INFO] Elev 1 boards P16 (pending) (1ppl) at F2
+[2025-09-18 17:17:38] [INFO]    P16 waited 0s
+[2025-09-18 17:17:38] [INFO] Elev 3 board/deboard done F3
+[2025-09-18 17:17:38] [INFO] Elev 1 board/deboard done F2
+[2025-09-18 17:17:38] [INFO] Elev 3 doors closed F3
+[2025-09-18 17:17:38] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:38] [INFO] Elev 1 doors closed F2
+[2025-09-18 17:17:38] [INFO] Elev 1 now at F3 (heading UP)
+[2025-09-18 17:17:38] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:38] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:17:38] [INFO] New call P17 (1ppl): F10->F5. Qsize: 3
+[2025-09-18 17:17:38] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:38] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:17:38] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:17:38] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:17:38] [INFO] Elev 3 doors open F6
+[2025-09-18 17:17:38] [INFO] Elev 3 deboards P12 (3ppl) at F6
+[2025-09-18 17:17:39] [INFO] Elev 1 arrived F6 for service.
+[2025-09-18 17:17:39] [INFO] Elev 3 board/deboard done F6
+[2025-09-18 17:17:39] [INFO] Elev 1 doors open F6
+[2025-09-18 17:17:39] [INFO] Elev 1 deboards P16 (1ppl) at F6
+[2025-09-18 17:17:39] [INFO] Elev 3 doors closed F6
+[2025-09-18 17:17:39] [INFO] Elev 3 took new call P13 (4ppl) from F1 to F4
+[2025-09-18 17:17:39] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:39] [INFO] Elev 1 board/deboard done F6
+[2025-09-18 17:17:39] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:17:39] [INFO] Elev 1 doors closed F6
+[2025-09-18 17:17:39] [INFO] Elev 1 took new call P17 (1ppl) from F10 to F5
+[2025-09-18 17:17:39] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:17:39] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:39] [INFO] Elev 1 now at F8 (heading UP)
+[2025-09-18 17:17:39] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:17:39] [INFO] New call P18 (2ppl): F9->F8. Qsize: 2
+[2025-09-18 17:17:39] [INFO] Elev 3 now at F1 (heading DOWN)
+[2025-09-18 17:17:39] [INFO] Elev 1 now at F9 (heading UP)
+[2025-09-18 17:17:39] [INFO] Elev 3 arrived F1 for service.
+[2025-09-18 17:17:39] [INFO] Elev 1 now at F10 (heading UP)
+[2025-09-18 17:17:39] [INFO] Elev 3 doors open F1
+[2025-09-18 17:17:39] [INFO] Elev 3 boards P13 (pending) (4ppl) at F1
+[2025-09-18 17:17:39] [INFO]    P13 waited 4s
+[2025-09-18 17:17:39] [INFO] Elev 1 arrived F10 for service.
+[2025-09-18 17:17:39] [INFO] Elev 3 board/deboard done F1
+[2025-09-18 17:17:39] [INFO] Elev 1 doors open F10
+[2025-09-18 17:17:39] [INFO] Elev 1 boards P17 (pending) (1ppl) at F10
+[2025-09-18 17:17:39] [INFO]    P17 waited 1s
+[2025-09-18 17:17:40] [INFO] Elev 3 doors closed F1
+[2025-09-18 17:17:40] [INFO] Elev 3 now at F2 (heading UP)
+[2025-09-18 17:17:40] [INFO] Elev 1 board/deboard done F10
+[2025-09-18 17:17:40] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:17:40] [INFO] Elev 1 doors closed F10
+[2025-09-18 17:17:40] [INFO] Elev 1 now at F9 (heading DOWN)
+[2025-09-18 17:17:40] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:40] [INFO] Elev 1 now at F8 (heading DOWN)
+[2025-09-18 17:17:40] [INFO] Elev 3 arrived F4 for service.
+[2025-09-18 17:17:40] [INFO] Elev 1 now at F7 (heading DOWN)
+[2025-09-18 17:17:40] [INFO] Elev 3 doors open F4
+[2025-09-18 17:17:40] [INFO] Elev 3 deboards P13 (4ppl) at F4
+[2025-09-18 17:17:40] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:17:40] [INFO] Elev 3 board/deboard done F4
+[2025-09-18 17:17:40] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:17:40] [INFO] Elev 3 doors closed F4
+[2025-09-18 17:17:40] [INFO] Elev 1 arrived F5 for service.
+[2025-09-18 17:17:40] [INFO] Elev 3 took new call P15 (4ppl) from F2 to F3
+[2025-09-18 17:17:40] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:40] [INFO] New call P19 (2ppl): F9->F3. Qsize: 2
+[2025-09-18 17:17:40] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:17:40] [INFO] Elev 1 doors open F5
+[2025-09-18 17:17:40] [INFO] Elev 1 deboards P17 (1ppl) at F5
+[2025-09-18 17:17:40] [INFO] Elev 3 arrived F2 for service.
+[2025-09-18 17:17:40] [INFO] Elev 1 board/deboard done F5
+[2025-09-18 17:17:41] [INFO] Elev 3 doors open F2
+[2025-09-18 17:17:41] [INFO] Elev 3 boards P15 (pending) (4ppl) at F2
+[2025-09-18 17:17:41] [INFO]    P15 waited 4s
+[2025-09-18 17:17:41] [INFO] Elev 1 doors closed F5
+[2025-09-18 17:17:41] [INFO] Elev 1 took new call P18 (2ppl) from F9 to F8
+[2025-09-18 17:17:41] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:17:41] [INFO] Elev 3 board/deboard done F2
+[2025-09-18 17:17:41] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:17:41] [INFO] Elev 3 doors closed F2
+[2025-09-18 17:17:41] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:17:41] [INFO] Elev 1 now at F8 (heading UP)
+[2025-09-18 17:17:41] [INFO] Elev 3 arrived F3 for service.
+[2025-09-18 17:17:41] [INFO] Elev 1 now at F9 (heading UP)
+[2025-09-18 17:17:41] [INFO] Elev 3 doors open F3
+[2025-09-18 17:17:41] [INFO] Elev 3 deboards P15 (4ppl) at F3
+[2025-09-18 17:17:41] [INFO] Elev 1 arrived F9 for service.
+[2025-09-18 17:17:41] [INFO] Elev 3 board/deboard done F3
+[2025-09-18 17:17:41] [INFO] Elev 1 doors open F9
+[2025-09-18 17:17:41] [INFO] Elev 1 boards P18 (pending) (2ppl) at F9
+[2025-09-18 17:17:41] [INFO]    P18 waited 1s
+[2025-09-18 17:17:41] [INFO] Elev 3 doors closed F3
+[2025-09-18 17:17:41] [INFO] Elev 3 took new call P19 (2ppl) from F9 to F3
+[2025-09-18 17:17:41] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:41] [INFO] Elev 1 board/deboard done F9
+[2025-09-18 17:17:41] [INFO] New call P20 (2ppl): F6->F4. Qsize: 1
+[2025-09-18 17:17:41] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:41] [INFO] Elev 1 doors closed F9
+[2025-09-18 17:17:41] [INFO] Elev 1 now at F8 (heading DOWN)
+[2025-09-18 17:17:41] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:41] [INFO] Elev 1 arrived F8 for service.
+[2025-09-18 17:17:41] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:41] [INFO] Elev 1 doors open F8
+[2025-09-18 17:17:41] [INFO] Elev 1 deboards P18 (2ppl) at F8
+[2025-09-18 17:17:42] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:42] [INFO] Elev 1 board/deboard done F8
+[2025-09-18 17:17:42] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:17:42] [INFO] Elev 1 doors closed F8
+[2025-09-18 17:17:42] [INFO] Elev 1 took new call P20 (2ppl) from F6 to F4
+[2025-09-18 17:17:42] [INFO] Elev 1 now at F7 (heading DOWN)
+[2025-09-18 17:17:42] [INFO] Elev 3 arrived F9 for service.
+[2025-09-18 17:17:42] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:17:42] [INFO] Elev 3 doors open F9
+[2025-09-18 17:17:42] [INFO] Elev 3 boards P19 (pending) (2ppl) at F9
+[2025-09-18 17:17:42] [INFO]    P19 waited 1s
+[2025-09-18 17:17:42] [INFO] Elev 1 arrived F6 for service.
+[2025-09-18 17:17:42] [INFO] Elev 3 board/deboard done F9
+[2025-09-18 17:17:42] [INFO] Elev 1 doors open F6
+[2025-09-18 17:17:42] [INFO] Elev 1 boards P20 (pending) (2ppl) at F6
+[2025-09-18 17:17:42] [INFO]    P20 waited 0s
+[2025-09-18 17:17:42] [INFO] Elev 3 doors closed F9
+[2025-09-18 17:17:42] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:17:42] [INFO] Elev 1 board/deboard done F6
+[2025-09-18 17:17:42] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:42] [INFO] New call P21 (2ppl): F7->F1. Qsize: 1
+[2025-09-18 17:17:42] [INFO] Elev 1 doors closed F6
+[2025-09-18 17:17:42] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:17:42] [INFO] Elev 3 arrived F7 for service.
+[2025-09-18 17:17:42] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:17:42] [INFO] Elev 3 doors open F7
+[2025-09-18 17:17:42] [INFO] Elev 3 boards P21 (general) (2ppl) at F7
+[2025-09-18 17:17:42] [INFO]    P21 waited 0s
+[2025-09-18 17:17:42] [INFO] Elev 1 arrived F4 for service.
+[2025-09-18 17:17:43] [INFO] Elev 3 board/deboard done F7
+[2025-09-18 17:17:43] [INFO] Elev 1 doors open F4
+[2025-09-18 17:17:43] [INFO] Elev 1 deboards P20 (2ppl) at F4
+[2025-09-18 17:17:43] [INFO] Elev 3 doors closed F7
+[2025-09-18 17:17:43] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:17:43] [INFO] Elev 1 board/deboard done F4
+[2025-09-18 17:17:43] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:43] [INFO] Elev 1 doors closed F4
+[2025-09-18 17:17:43] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:17:43] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:43] [INFO] New call P22 (1ppl): F4->F8. Qsize: 1
+[2025-09-18 17:17:43] [INFO] Elev 3 arrived F3 for service.
+[2025-09-18 17:17:43] [INFO] Elev 3 doors open F3
+[2025-09-18 17:17:43] [INFO] Elev 3 deboards P19 (2ppl) at F3
+[2025-09-18 17:17:43] [INFO] Elev 1 doors open F4
+[2025-09-18 17:17:43] [INFO] Elev 1 sets dir to UP by P22
+[2025-09-18 17:17:43] [INFO] Elev 1 boards P22 (general) (1ppl) at F4
+[2025-09-18 17:17:43] [INFO]    P22 waited 0s
+[2025-09-18 17:17:43] [INFO] Elev 3 board/deboard done F3
+[2025-09-18 17:17:43] [INFO] Elev 1 board/deboard done F4
+[2025-09-18 17:17:43] [INFO] Elev 3 doors closed F3
+[2025-09-18 17:17:43] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:17:43] [INFO] Elev 3 now at F1 (heading DOWN)
+[2025-09-18 17:17:43] [INFO] Elev 1 doors closed F4
+[2025-09-18 17:17:43] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:17:44] [INFO] Elev 3 arrived F1 for service.
+[2025-09-18 17:17:44] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:17:44] [INFO] Elev 3 doors open F1
+[2025-09-18 17:17:44] [INFO] Elev 3 deboards P21 (2ppl) at F1
+[2025-09-18 17:17:44] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:17:44] [INFO] Elev 3 board/deboard done F1
+[2025-09-18 17:17:44] [INFO] Elev 1 now at F8 (heading UP)
+[2025-09-18 17:17:44] [INFO] Elev 3 doors closed F1
+[2025-09-18 17:17:44] [INFO] Elev 1 arrived F8 for service.
+[2025-09-18 17:17:44] [INFO] Elev 1 doors open F8
+[2025-09-18 17:17:44] [INFO] Elev 1 deboards P22 (1ppl) at F8
+[2025-09-18 17:17:44] [INFO] New call P23 (1ppl): F8->F6. Qsize: 1
+[2025-09-18 17:17:44] [INFO] Elev 1 board/deboard done F8
+[2025-09-18 17:17:44] [INFO] Elev 3 took new call P23 (1ppl) from F8 to F6
+[2025-09-18 17:17:44] [INFO] Elev 3 now at F2 (heading UP)
+[2025-09-18 17:17:44] [INFO] Elev 1 doors closed F8
+[2025-09-18 17:17:44] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:17:44] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:45] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:45] [INFO] --- Final Stats ---
+[2025-09-18 17:17:45] [INFO] Total Ppl Transported (all elevs): 58
+[2025-09-18 17:17:45] [INFO] Total Floors (all elevs): 155
+[2025-09-18 17:17:45] [INFO] Avg Group Wait: 1.345045s.
+[2025-09-18 17:17:45] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:45] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:45] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:45] [INFO] Elev 3 arrived F8 for service.
+[2025-09-18 17:17:45] [INFO] Elev 3 doors open F8
+[2025-09-18 17:17:45] [INFO] Elev 3 boards P23 (pending) (1ppl) at F8
+[2025-09-18 17:17:45] [INFO]    P23 waited 1s
+[2025-09-18 17:17:45] [INFO] New call P24 (2ppl): F1->F6. Qsize: 1
+[2025-09-18 17:17:45] [INFO] Elev 1 took new call P24 (2ppl) from F1 to F6
+[2025-09-18 17:17:45] [INFO] Elev 1 now at F7 (heading DOWN)
+[2025-09-18 17:17:45] [INFO] Elev 3 board/deboard done F8
+[2025-09-18 17:17:45] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:17:45] [INFO] Elev 3 doors closed F8
+[2025-09-18 17:17:45] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:45] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:17:45] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:17:45] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:17:46] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:17:46] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:17:46] [INFO] Elev 3 doors open F6
+[2025-09-18 17:17:46] [INFO] Elev 3 deboards P23 (1ppl) at F6
+[2025-09-18 17:17:46] [INFO] Elev 1 now at F2 (heading DOWN)
+[2025-09-18 17:17:46] [INFO] Elev 3 board/deboard done F6
+[2025-09-18 17:17:46] [INFO] Elev 1 now at F1 (heading DOWN)
+[2025-09-18 17:17:46] [INFO] Elev 3 doors closed F6
+[2025-09-18 17:17:46] [INFO] Elev 1 arrived F1 for service.
+[2025-09-18 17:17:46] [INFO] New call P25 (3ppl): F5->F8. Qsize: 1
+[2025-09-18 17:17:46] [INFO] Elev 1 doors open F1
+[2025-09-18 17:17:46] [INFO] Elev 1 boards P24 (pending) (2ppl) at F1
+[2025-09-18 17:17:46] [INFO]    P24 waited 0s
+[2025-09-18 17:17:46] [INFO] Elev 1 board/deboard done F1
+[2025-09-18 17:17:46] [INFO] Elev 3 took new call P25 (3ppl) from F5 to F8
+[2025-09-18 17:17:46] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:46] [INFO] Elev 1 doors closed F1
+[2025-09-18 17:17:46] [INFO] Elev 1 now at F2 (heading UP)
+[2025-09-18 17:17:46] [INFO] Elev 3 arrived F5 for service.
+[2025-09-18 17:17:46] [INFO] Elev 3 doors open F5
+[2025-09-18 17:17:46] [INFO] Elev 3 boards P25 (pending) (3ppl) at F5
+[2025-09-18 17:17:46] [INFO]    P25 waited 0s
+[2025-09-18 17:17:46] [INFO] Elev 1 now at F3 (heading UP)
+[2025-09-18 17:17:46] [INFO] New call P26 (1ppl): F4->F5. Qsize: 1
+[2025-09-18 17:17:46] [INFO] Elev 3 board/deboard done F5
+[2025-09-18 17:17:46] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:17:47] [INFO] Elev 3 doors closed F5
+[2025-09-18 17:17:47] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:47] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:17:47] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:47] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:17:47] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:47] [INFO] Elev 1 arrived F6 for service.
+[2025-09-18 17:17:47] [INFO] Elev 3 arrived F8 for service.
+[2025-09-18 17:17:47] [INFO] Elev 1 doors open F6
+[2025-09-18 17:17:47] [INFO] Elev 1 deboards P24 (2ppl) at F6
+[2025-09-18 17:17:47] [INFO] Elev 3 doors open F8
+[2025-09-18 17:17:47] [INFO] Elev 3 deboards P25 (3ppl) at F8
+[2025-09-18 17:17:47] [INFO] Elev 1 board/deboard done F6
+[2025-09-18 17:17:47] [INFO] Elev 3 board/deboard done F8
+[2025-09-18 17:17:47] [INFO] Elev 1 doors closed F6
+[2025-09-18 17:17:47] [INFO] Elev 1 took new call P26 (1ppl) from F4 to F5
+[2025-09-18 17:17:47] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:17:47] [INFO] Elev 3 doors closed F8
+[2025-09-18 17:17:47] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:17:47] [INFO] New call P27 (2ppl): F8->F6. Qsize: 1
+[2025-09-18 17:17:47] [INFO] Elev 1 arrived F4 for service.
+[2025-09-18 17:17:47] [INFO] Elev 1 doors open F4
+[2025-09-18 17:17:47] [INFO] Elev 1 boards P26 (pending) (1ppl) at F4
+[2025-09-18 17:17:47] [INFO]    P26 waited 1s
+[2025-09-18 17:17:48] [INFO] Elev 1 board/deboard done F4
+[2025-09-18 17:17:48] [INFO] Elev 3 doors open F8
+[2025-09-18 17:17:48] [INFO] Elev 3 sets dir to DOWN by P27
+[2025-09-18 17:17:48] [INFO] Elev 3 boards P27 (general) (2ppl) at F8
+[2025-09-18 17:17:48] [INFO]    P27 waited 0s
+[2025-09-18 17:17:48] [INFO] Elev 1 doors closed F4
+[2025-09-18 17:17:48] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:17:48] [INFO] Elev 3 board/deboard done F8
+[2025-09-18 17:17:48] [INFO] Elev 1 arrived F5 for service.
+[2025-09-18 17:17:48] [INFO] Elev 3 doors closed F8
+[2025-09-18 17:17:48] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:48] [INFO] New call P28 (2ppl): F4->F5. Qsize: 1
+[2025-09-18 17:17:48] [INFO] Elev 1 doors open F5
+[2025-09-18 17:17:48] [INFO] Elev 1 deboards P26 (1ppl) at F5
+[2025-09-18 17:17:48] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:17:48] [INFO] Elev 1 board/deboard done F5
+[2025-09-18 17:17:48] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:17:48] [INFO] Elev 1 doors closed F5
+[2025-09-18 17:17:48] [INFO] Elev 1 took new call P28 (2ppl) from F4 to F5
+[2025-09-18 17:17:48] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:17:48] [INFO] Elev 3 doors open F6
+[2025-09-18 17:17:48] [INFO] Elev 3 deboards P27 (2ppl) at F6
+[2025-09-18 17:17:48] [INFO] Elev 1 arrived F4 for service.
+[2025-09-18 17:17:48] [INFO] Elev 3 board/deboard done F6
+[2025-09-18 17:17:48] [INFO] Elev 1 doors open F4
+[2025-09-18 17:17:48] [INFO] Elev 1 boards P28 (pending) (2ppl) at F4
+[2025-09-18 17:17:48] [INFO]    P28 waited 0s
+[2025-09-18 17:17:48] [INFO] Elev 3 doors closed F6
+[2025-09-18 17:17:48] [INFO] Elev 1 board/deboard done F4
+[2025-09-18 17:17:49] [INFO] New call P29 (3ppl): F2->F8. Qsize: 1
+[2025-09-18 17:17:49] [INFO] Elev 3 took new call P29 (3ppl) from F2 to F8
+[2025-09-18 17:17:49] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:49] [INFO] Elev 1 doors closed F4
+[2025-09-18 17:17:49] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:17:49] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:17:49] [INFO] Elev 1 arrived F5 for service.
+[2025-09-18 17:17:49] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:49] [INFO] Elev 1 doors open F5
+[2025-09-18 17:17:49] [INFO] Elev 1 deboards P28 (2ppl) at F5
+[2025-09-18 17:17:49] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:17:49] [INFO] Elev 1 board/deboard done F5
+[2025-09-18 17:17:49] [INFO] Elev 3 arrived F2 for service.
+[2025-09-18 17:17:49] [INFO] Elev 1 doors closed F5
+[2025-09-18 17:17:49] [INFO] Elev 3 doors open F2
+[2025-09-18 17:17:49] [INFO] Elev 3 boards P29 (pending) (3ppl) at F2
+[2025-09-18 17:17:49] [INFO]    P29 waited 0s
+[2025-09-18 17:17:49] [INFO] Elev 3 board/deboard done F2
+[2025-09-18 17:17:49] [INFO] New call P30 (3ppl): F10->F5. Qsize: 1
+[2025-09-18 17:17:49] [INFO] Elev 3 doors closed F2
+[2025-09-18 17:17:49] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:17:49] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:49] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:50] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:50] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:50] [INFO] New call P31 (1ppl): F6->F1. Qsize: 2
+[2025-09-18 17:17:50] [INFO] Elev 1 took new call P31 (1ppl) from F6 to F1
+[2025-09-18 17:17:50] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:17:50] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:50] [INFO] Elev 1 arrived F6 for service.
+[2025-09-18 17:17:50] [INFO] Elev 3 arrived F8 for service.
+[2025-09-18 17:17:50] [INFO] Elev 1 doors open F6
+[2025-09-18 17:17:50] [INFO] Elev 1 boards P31 (pending) (1ppl) at F6
+[2025-09-18 17:17:50] [INFO]    P31 waited 0s
+[2025-09-18 17:17:50] [INFO] Elev 3 doors open F8
+[2025-09-18 17:17:50] [INFO] Elev 3 deboards P29 (3ppl) at F8
+[2025-09-18 17:17:50] [INFO] Elev 1 board/deboard done F6
+[2025-09-18 17:17:50] [INFO] Elev 3 board/deboard done F8
+[2025-09-18 17:17:50] [INFO] Elev 1 doors closed F6
+[2025-09-18 17:17:50] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:17:50] [INFO] Elev 3 doors closed F8
+[2025-09-18 17:17:50] [INFO] Elev 3 took new call P30 (3ppl) from F10 to F5
+[2025-09-18 17:17:50] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:17:50] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:17:50] [INFO] Elev 3 now at F10 (heading UP)
+[2025-09-18 17:17:50] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:17:50] [INFO] Elev 3 arrived F10 for service.
+[2025-09-18 17:17:51] [INFO] Elev 1 now at F2 (heading DOWN)
+[2025-09-18 17:17:51] [INFO] Elev 3 doors open F10
+[2025-09-18 17:17:51] [INFO] Elev 3 boards P30 (pending) (3ppl) at F10
+[2025-09-18 17:17:51] [INFO]    P30 waited 1s
+[2025-09-18 17:17:51] [INFO] New call P32 (1ppl): F1->F7. Qsize: 1
+[2025-09-18 17:17:51] [INFO] Elev 3 board/deboard done F10
+[2025-09-18 17:17:51] [INFO] Elev 1 now at F1 (heading DOWN)
+[2025-09-18 17:17:51] [INFO] Elev 3 doors closed F10
+[2025-09-18 17:17:51] [INFO] Elev 3 now at F9 (heading DOWN)
+[2025-09-18 17:17:51] [INFO] Elev 1 arrived F1 for service.
+[2025-09-18 17:17:51] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:17:51] [INFO] Elev 1 doors open F1
+[2025-09-18 17:17:51] [INFO] Elev 1 deboards P31 (1ppl) at F1
+[2025-09-18 17:17:51] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:51] [INFO] Elev 1 board/deboard done F1
+[2025-09-18 17:17:51] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:17:51] [INFO] Elev 1 doors closed F1
+[2025-09-18 17:17:51] [INFO] Elev 1 took new call P32 (1ppl) from F1 to F7
+[2025-09-18 17:17:51] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:51] [INFO] Elev 1 doors open F1
+[2025-09-18 17:17:51] [INFO] Elev 1 boards P32 (pending) (1ppl) at F1
+[2025-09-18 17:17:51] [INFO]    P32 waited 0s
+[2025-09-18 17:17:51] [INFO] Elev 3 arrived F5 for service.
+[2025-09-18 17:17:51] [INFO] Elev 1 board/deboard done F1
+[2025-09-18 17:17:51] [INFO] Elev 3 doors open F5
+[2025-09-18 17:17:51] [INFO] Elev 3 deboards P30 (3ppl) at F5
+[2025-09-18 17:17:51] [INFO] Elev 1 doors closed F1
+[2025-09-18 17:17:51] [INFO] Elev 1 now at F2 (heading UP)
+[2025-09-18 17:17:51] [INFO] Elev 3 board/deboard done F5
+[2025-09-18 17:17:52] [INFO] Elev 1 now at F3 (heading UP)
+[2025-09-18 17:17:52] [INFO] Elev 3 doors closed F5
+[2025-09-18 17:17:52] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:17:52] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:17:52] [INFO] New call P33 (4ppl): F5->F1. Qsize: 1
+[2025-09-18 17:17:52] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:17:52] [INFO] Elev 3 doors open F5
+[2025-09-18 17:17:52] [INFO] Elev 3 sets dir to DOWN by P33
+[2025-09-18 17:17:52] [INFO] Elev 3 boards P33 (general) (4ppl) at F5
+[2025-09-18 17:17:52] [INFO]    P33 waited 0s
+[2025-09-18 17:17:52] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:17:52] [INFO] Elev 3 board/deboard done F5
+[2025-09-18 17:17:52] [INFO] Elev 1 arrived F7 for service.
+[2025-09-18 17:17:52] [INFO] Elev 3 doors closed F5
+[2025-09-18 17:17:52] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:17:52] [INFO] Elev 1 doors open F7
+[2025-09-18 17:17:52] [INFO] Elev 1 deboards P32 (1ppl) at F7
+[2025-09-18 17:17:52] [INFO] New call P34 (3ppl): F1->F6. Qsize: 1
+[2025-09-18 17:17:52] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:52] [INFO] Elev 1 board/deboard done F7
+[2025-09-18 17:17:52] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:17:52] [INFO] Elev 1 doors closed F7
+[2025-09-18 17:17:52] [INFO] Elev 3 now at F1 (heading DOWN)
+[2025-09-18 17:17:53] [INFO] Elev 3 arrived F1 for service.
+[2025-09-18 17:17:53] [INFO] Elev 3 doors open F1
+[2025-09-18 17:17:53] [INFO] Elev 3 deboards P33 (4ppl) at F1
+[2025-09-18 17:17:53] [INFO] Elev 3 board/deboard done F1
+[2025-09-18 17:17:53] [INFO] Elev 3 doors closed F1
+[2025-09-18 17:17:53] [INFO] Elev 3 took new call P34 (3ppl) from F1 to F6
+[2025-09-18 17:17:53] [INFO] Elev 3 doors open F1
+[2025-09-18 17:17:53] [INFO] Elev 3 boards P34 (pending) (3ppl) at F1
+[2025-09-18 17:17:53] [INFO]    P34 waited 0s
+[2025-09-18 17:17:53] [INFO] Elev 3 board/deboard done F1
+[2025-09-18 17:17:53] [INFO] Elev 3 doors closed F1
+[2025-09-18 17:17:53] [INFO] Elev 3 now at F2 (heading UP)
+[2025-09-18 17:17:53] [INFO] New call P35 (3ppl): F8->F1. Qsize: 1
+[2025-09-18 17:17:53] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:17:53] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:53] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:54] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:54] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:17:54] [INFO] Elev 3 doors open F6
+[2025-09-18 17:17:54] [INFO] Elev 3 deboards P34 (3ppl) at F6
+[2025-09-18 17:17:54] [INFO] Elev 3 board/deboard done F6
+[2025-09-18 17:17:54] [INFO] New call P36 (4ppl): F9->F6. Qsize: 2
+[2025-09-18 17:17:54] [INFO] Elev 3 doors closed F6
+[2025-09-18 17:17:54] [INFO] Elev 3 took new call P35 (3ppl) from F8 to F1
+[2025-09-18 17:17:54] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:52] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:52] [INFO] Elev 3 arrived F8 for service.
+[2025-09-18 17:17:52] [INFO] Elev 3 doors open F8
+[2025-09-18 17:17:52] [INFO] Elev 3 boards P35 (pending) (3ppl) at F8
+[2025-09-18 17:17:52] [INFO]    P35 waited -1s
+[2025-09-18 17:17:52] [INFO] Elev 3 board/deboard done F8
+[2025-09-18 17:17:52] [INFO] Elev 3 doors closed F8
+[2025-09-18 17:17:52] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:52] [INFO] New call P37 (3ppl): F8->F1. Qsize: 2
+[2025-09-18 17:17:52] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:17:52] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:52] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:17:53] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:53] [INFO] New call P38 (1ppl): F1->F2. Qsize: 3
+[2025-09-18 17:17:53] [INFO] Elev 1 took new call P38 (1ppl) from F1 to F2
+[2025-09-18 17:17:53] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:17:53] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:17:53] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:17:53] [INFO] Elev 3 now at F1 (heading DOWN)
+[2025-09-18 17:17:53] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:17:53] [INFO] Elev 3 arrived F1 for service.
+[2025-09-18 17:17:53] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:17:53] [INFO] Elev 3 doors open F1
+[2025-09-18 17:17:53] [INFO] Elev 3 deboards P35 (3ppl) at F1
+[2025-09-18 17:17:53] [INFO] Elev 1 now at F2 (heading DOWN)
+[2025-09-18 17:17:53] [INFO] Elev 3 board/deboard done F1
+[2025-09-18 17:17:53] [INFO] Elev 1 now at F1 (heading DOWN)
+[2025-09-18 17:17:53] [INFO] Elev 3 doors closed F1
+[2025-09-18 17:17:53] [INFO] Elev 3 took new call P36 (4ppl) from F9 to F6
+[2025-09-18 17:17:53] [INFO] Elev 3 now at F2 (heading UP)
+[2025-09-18 17:17:53] [INFO] Elev 1 arrived F1 for service.
+[2025-09-18 17:17:53] [INFO] New call P39 (1ppl): F2->F4. Qsize: 2
+[2025-09-18 17:17:53] [INFO] Elev 3 arrived F2 for service.
+[2025-09-18 17:17:53] [INFO] Elev 1 doors open F1
+[2025-09-18 17:17:53] [INFO] Elev 1 boards P38 (pending) (1ppl) at F1
+[2025-09-18 17:17:53] [INFO]    P38 waited 0s
+[2025-09-18 17:17:53] [INFO] Elev 3 doors open F2
+[2025-09-18 17:17:53] [INFO] Elev 3 boards P39 (general) (1ppl) at F2
+[2025-09-18 17:17:53] [INFO]    P39 waited 0s
+[2025-09-18 17:17:53] [INFO] Elev 1 board/deboard done F1
+[2025-09-18 17:17:54] [INFO] Elev 3 board/deboard done F2
+[2025-09-18 17:17:54] [INFO] Elev 1 doors closed F1
+[2025-09-18 17:17:54] [INFO] Elev 1 now at F2 (heading UP)
+[2025-09-18 17:17:54] [INFO] New call P40 (1ppl): F2->F1. Qsize: 2
+[2025-09-18 17:17:54] [INFO] Elev 3 doors closed F2
+[2025-09-18 17:17:54] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:17:54] [INFO] Elev 1 arrived F2 for service.
+[2025-09-18 17:17:54] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:54] [INFO] Elev 1 doors open F2
+[2025-09-18 17:17:54] [INFO] Elev 1 deboards P38 (1ppl) at F2
+[2025-09-18 17:17:54] [INFO] Elev 3 arrived F4 for service.
+[2025-09-18 17:17:54] [INFO] Elev 1 board/deboard done F2
+[2025-09-18 17:17:54] [INFO] Elev 3 doors open F4
+[2025-09-18 17:17:54] [INFO] Elev 3 deboards P39 (1ppl) at F4
+[2025-09-18 17:17:54] [INFO] Elev 1 doors closed F2
+[2025-09-18 17:17:54] [INFO] Elev 1 took new call P40 (1ppl) from F2 to F1
+[2025-09-18 17:17:54] [INFO] Elev 3 board/deboard done F4
+[2025-09-18 17:17:54] [INFO] Elev 1 doors open F2
+[2025-09-18 17:17:54] [INFO] Elev 1 boards P40 (pending) (1ppl) at F2
+[2025-09-18 17:17:54] [INFO]    P40 waited 0s
+[2025-09-18 17:17:54] [INFO] Elev 3 doors closed F4
+[2025-09-18 17:17:54] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:54] [INFO] Elev 1 board/deboard done F2
+[2025-09-18 17:17:54] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:54] [INFO] Elev 1 doors closed F2
+[2025-09-18 17:17:54] [INFO] Elev 1 now at F1 (heading DOWN)
+[2025-09-18 17:17:54] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:54] [INFO] Elev 1 arrived F1 for service.
+[2025-09-18 17:17:54] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:55] [INFO] Elev 1 doors open F1
+[2025-09-18 17:17:55] [INFO] Elev 1 deboards P40 (1ppl) at F1
+[2025-09-18 17:17:55] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:17:55] [INFO] Elev 1 board/deboard done F1
+[2025-09-18 17:17:55] [INFO] Elev 3 arrived F9 for service.
+[2025-09-18 17:17:55] [INFO] New call P41 (1ppl): F2->F5. Qsize: 2
+[2025-09-18 17:17:55] [INFO] Elev 1 doors closed F1
+[2025-09-18 17:17:55] [INFO] Elev 1 took new call P41 (1ppl) from F2 to F5
+[2025-09-18 17:17:55] [INFO] Elev 1 now at F2 (heading UP)
+[2025-09-18 17:17:55] [INFO] Elev 3 doors open F9
+[2025-09-18 17:17:55] [INFO] Elev 3 boards P36 (pending) (4ppl) at F9
+[2025-09-18 17:17:55] [INFO]    P36 waited 0s
+[2025-09-18 17:17:55] [INFO] Elev 1 arrived F2 for service.
+[2025-09-18 17:17:55] [INFO] Elev 3 board/deboard done F9
+[2025-09-18 17:17:55] [INFO] Elev 1 doors open F2
+[2025-09-18 17:17:55] [INFO] Elev 1 boards P41 (pending) (1ppl) at F2
+[2025-09-18 17:17:55] [INFO]    P41 waited 0s
+[2025-09-18 17:17:55] [INFO] Elev 3 doors closed F9
+[2025-09-18 17:17:55] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:17:55] [INFO] Elev 1 board/deboard done F2
+[2025-09-18 17:17:55] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:55] [INFO] Elev 1 doors closed F2
+[2025-09-18 17:17:55] [INFO] Elev 1 now at F3 (heading UP)
+[2025-09-18 17:17:55] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:17:55] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:17:55] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:17:55] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:17:55] [INFO] Elev 3 doors open F6
+[2025-09-18 17:17:55] [INFO] Elev 3 deboards P36 (4ppl) at F6
+[2025-09-18 17:17:55] [INFO] Elev 1 arrived F5 for service.
+[2025-09-18 17:17:56] [INFO] Elev 3 board/deboard done F6
+[2025-09-18 17:17:56] [INFO] Elev 1 doors open F5
+[2025-09-18 17:17:56] [INFO] Elev 1 deboards P41 (1ppl) at F5
+[2025-09-18 17:17:56] [INFO] Elev 3 doors closed F6
+[2025-09-18 17:17:56] [INFO] Elev 3 took new call P37 (3ppl) from F8 to F1
+[2025-09-18 17:17:56] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:56] [INFO] New call P42 (4ppl): F1->F10. Qsize: 1
+[2025-09-18 17:17:56] [INFO] Elev 1 board/deboard done F5
+[2025-09-18 17:17:56] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:56] [INFO] Elev 1 doors closed F5
+[2025-09-18 17:17:56] [INFO] Elev 3 arrived F8 for service.
+[2025-09-18 17:17:56] [INFO] Elev 3 doors open F8
+[2025-09-18 17:17:56] [INFO] Elev 3 boards P37 (pending) (3ppl) at F8
+[2025-09-18 17:17:56] [INFO]    P37 waited 3s
+[2025-09-18 17:17:56] [INFO] Elev 3 board/deboard done F8
+[2025-09-18 17:17:56] [INFO] Elev 3 doors closed F8
+[2025-09-18 17:17:56] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:56] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:17:56] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:17:56] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:17:57] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:17:57] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:17:57] [INFO] New call P43 (1ppl): F4->F8. Qsize: 2
+[2025-09-18 17:17:57] [INFO] Elev 1 took new call P43 (1ppl) from F4 to F8
+[2025-09-18 17:17:57] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:17:57] [INFO] Elev 3 now at F1 (heading DOWN)
+[2025-09-18 17:17:57] [INFO] Elev 1 arrived F4 for service.
+[2025-09-18 17:17:57] [INFO] Elev 3 arrived F1 for service.
+[2025-09-18 17:17:57] [INFO] Elev 1 doors open F4
+[2025-09-18 17:17:57] [INFO] Elev 1 boards P43 (pending) (1ppl) at F4
+[2025-09-18 17:17:57] [INFO]    P43 waited 0s
+[2025-09-18 17:17:57] [INFO] Elev 3 doors open F1
+[2025-09-18 17:17:57] [INFO] Elev 3 deboards P37 (3ppl) at F1
+[2025-09-18 17:17:57] [INFO] Elev 1 board/deboard done F4
+[2025-09-18 17:17:57] [INFO] Elev 3 board/deboard done F1
+[2025-09-18 17:17:57] [INFO] Elev 1 doors closed F4
+[2025-09-18 17:17:57] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:17:57] [INFO] Elev 3 doors closed F1
+[2025-09-18 17:17:57] [INFO] Elev 3 took new call P42 (4ppl) from F1 to F10
+[2025-09-18 17:17:57] [INFO] New call P44 (3ppl): F7->F4. Qsize: 1
+[2025-09-18 17:17:57] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:17:57] [INFO] Elev 3 doors open F1
+[2025-09-18 17:17:57] [INFO] Elev 3 boards P42 (pending) (4ppl) at F1
+[2025-09-18 17:17:57] [INFO]    P42 waited 1s
+[2025-09-18 17:17:57] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:17:57] [INFO] Elev 3 board/deboard done F1
+[2025-09-18 17:17:57] [INFO] Elev 1 now at F8 (heading UP)
+[2025-09-18 17:17:58] [INFO] Elev 3 doors closed F1
+[2025-09-18 17:17:58] [INFO] Elev 3 now at F2 (heading UP)
+[2025-09-18 17:17:58] [INFO] Elev 1 arrived F8 for service.
+[2025-09-18 17:17:58] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:17:58] [INFO] Elev 1 doors open F8
+[2025-09-18 17:17:58] [INFO] Elev 1 deboards P43 (1ppl) at F8
+[2025-09-18 17:17:58] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:17:58] [INFO] Elev 1 board/deboard done F8
+[2025-09-18 17:17:58] [INFO] New call P45 (2ppl): F8->F6. Qsize: 2
+[2025-09-18 17:17:58] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:17:58] [INFO] Elev 1 doors closed F8
+[2025-09-18 17:17:58] [INFO] Elev 1 took new call P45 (2ppl) from F8 to F6
+[2025-09-18 17:17:58] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:17:58] [INFO] Elev 1 doors open F8
+[2025-09-18 17:17:58] [INFO] Elev 1 boards P45 (pending) (2ppl) at F8
+[2025-09-18 17:17:58] [INFO]    P45 waited 0s
+[2025-09-18 17:17:58] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:17:58] [INFO] Elev 1 board/deboard done F8
+[2025-09-18 17:17:58] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:17:58] [INFO] Elev 1 doors closed F8
+[2025-09-18 17:17:58] [INFO] Elev 1 now at F7 (heading DOWN)
+[2025-09-18 17:17:58] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:17:58] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:17:58] [INFO] Elev 3 now at F10 (heading UP)
+[2025-09-18 17:17:58] [INFO] Elev 1 arrived F6 for service.
+[2025-09-18 17:17:59] [INFO] New call P46 (2ppl): F2->F9. Qsize: 2
+[2025-09-18 17:17:59] [INFO] Elev 3 arrived F10 for service.
+[2025-09-18 17:17:59] [INFO] Elev 1 doors open F6
+[2025-09-18 17:17:59] [INFO] Elev 1 deboards P45 (2ppl) at F6
+[2025-09-18 17:17:59] [INFO] Elev 3 doors open F10
+[2025-09-18 17:17:59] [INFO] Elev 3 deboards P42 (4ppl) at F10
+[2025-09-18 17:17:59] [INFO] Elev 1 board/deboard done F6
+[2025-09-18 17:17:59] [INFO] Elev 3 board/deboard done F10
+[2025-09-18 17:17:59] [INFO] Elev 1 doors closed F6
+[2025-09-18 17:17:59] [INFO] Elev 1 took new call P46 (2ppl) from F2 to F9
+[2025-09-18 17:17:59] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:17:59] [INFO] Elev 3 doors closed F10
+[2025-09-18 17:17:59] [INFO] Elev 3 took new call P44 (3ppl) from F7 to F4
+[2025-09-18 17:17:59] [INFO] Elev 3 now at F9 (heading DOWN)
+[2025-09-18 17:17:59] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:17:59] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:17:59] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:17:59] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:17:59] [INFO] Elev 1 now at F2 (heading DOWN)
+[2025-09-18 17:17:59] [INFO] Elev 3 arrived F7 for service.
+[2025-09-18 17:17:59] [INFO] Elev 1 arrived F2 for service.
+[2025-09-18 17:17:59] [INFO] Elev 3 doors open F7
+[2025-09-18 17:17:59] [INFO] Elev 3 boards P44 (pending) (3ppl) at F7
+[2025-09-18 17:17:59] [INFO]    P44 waited 2s
+[2025-09-18 17:17:59] [INFO] Elev 1 doors open F2
+[2025-09-18 17:17:59] [INFO] Elev 1 boards P46 (pending) (2ppl) at F2
+[2025-09-18 17:17:59] [INFO]    P46 waited 0s
+[2025-09-18 17:17:59] [INFO] Elev 3 board/deboard done F7
+[2025-09-18 17:17:59] [INFO] Elev 1 board/deboard done F2
+[2025-09-18 17:18:00] [INFO] Elev 3 doors closed F7
+[2025-09-18 17:18:00] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:18:00] [INFO] Elev 1 doors closed F2
+[2025-09-18 17:18:00] [INFO] Elev 1 now at F3 (heading UP)
+[2025-09-18 17:18:00] [INFO] New call P47 (4ppl): F7->F6. Qsize: 1
+[2025-09-18 17:18:00] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:18:00] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:18:00] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:18:00] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:18:00] [INFO] Elev 3 arrived F4 for service.
+[2025-09-18 17:18:00] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:18:00] [INFO] Elev 3 doors open F4
+[2025-09-18 17:18:00] [INFO] Elev 3 deboards P44 (3ppl) at F4
+[2025-09-18 17:18:00] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:18:00] [INFO] Elev 3 board/deboard done F4
+[2025-09-18 17:18:00] [INFO] Elev 1 now at F8 (heading UP)
+[2025-09-18 17:18:00] [INFO] New call P48 (1ppl): F3->F4. Qsize: 2
+[2025-09-18 17:18:00] [INFO] Elev 3 doors closed F4
+[2025-09-18 17:18:00] [INFO] Elev 3 took new call P47 (4ppl) from F7 to F6
+[2025-09-18 17:18:00] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:18:00] [INFO] Elev 1 now at F9 (heading UP)
+[2025-09-18 17:18:00] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:18:00] [INFO] Elev 1 arrived F9 for service.
+[2025-09-18 17:18:00] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:18:00] [INFO] Elev 1 doors open F9
+[2025-09-18 17:18:00] [INFO] Elev 1 deboards P46 (2ppl) at F9
+[2025-09-18 17:18:00] [INFO] Elev 3 arrived F7 for service.
+[2025-09-18 17:18:01] [INFO] Elev 1 board/deboard done F9
+[2025-09-18 17:18:01] [INFO] Elev 3 doors open F7
+[2025-09-18 17:18:01] [INFO] Elev 3 boards P47 (pending) (4ppl) at F7
+[2025-09-18 17:18:01] [INFO]    P47 waited 1s
+[2025-09-18 17:18:01] [INFO] Elev 1 doors closed F9
+[2025-09-18 17:18:01] [INFO] Elev 1 took new call P48 (1ppl) from F3 to F4
+[2025-09-18 17:18:01] [INFO] Elev 1 now at F8 (heading DOWN)
+[2025-09-18 17:18:01] [INFO] Elev 3 board/deboard done F7
+[2025-09-18 17:18:01] [INFO] New call P49 (1ppl): F4->F5. Qsize: 1
+[2025-09-18 17:18:01] [INFO] Elev 1 now at F7 (heading DOWN)
+[2025-09-18 17:18:01] [INFO] Elev 3 doors closed F7
+[2025-09-18 17:18:01] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:18:01] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:18:01] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:18:01] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:18:01] [INFO] Elev 3 doors open F6
+[2025-09-18 17:18:01] [INFO] Elev 3 deboards P47 (4ppl) at F6
+[2025-09-18 17:18:01] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:18:01] [INFO] Elev 3 board/deboard done F6
+[2025-09-18 17:18:01] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:18:01] [INFO] Elev 3 doors closed F6
+[2025-09-18 17:18:01] [INFO] New call P50 (4ppl): F8->F3. Qsize: 2
+[2025-09-18 17:18:01] [INFO] Elev 3 took new call P49 (1ppl) from F4 to F5
+[2025-09-18 17:18:01] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:18:01] [INFO] Elev 1 arrived F3 for service.
+[2025-09-18 17:18:01] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:18:01] [INFO] Elev 1 doors open F3
+[2025-09-18 17:18:01] [INFO] Elev 1 boards P48 (pending) (1ppl) at F3
+[2025-09-18 17:18:01] [INFO]    P48 waited 1s
+[2025-09-18 17:18:01] [INFO] Elev 3 arrived F4 for service.
+[2025-09-18 17:18:01] [INFO] Elev 1 board/deboard done F3
+[2025-09-18 17:18:02] [INFO] Elev 3 doors open F4
+[2025-09-18 17:18:02] [INFO] Elev 3 boards P49 (pending) (1ppl) at F4
+[2025-09-18 17:18:02] [INFO]    P49 waited 0s
+[2025-09-18 17:18:02] [INFO] Elev 1 doors closed F3
+[2025-09-18 17:18:02] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:18:02] [INFO] Elev 3 board/deboard done F4
+[2025-09-18 17:18:02] [INFO] Elev 1 arrived F4 for service.
+[2025-09-18 17:18:02] [INFO] Elev 3 doors closed F4
+[2025-09-18 17:18:02] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:18:02] [INFO] Elev 1 doors open F4
+[2025-09-18 17:18:02] [INFO] Elev 1 deboards P48 (1ppl) at F4
+[2025-09-18 17:18:02] [INFO] Elev 3 arrived F5 for service.
+[2025-09-18 17:18:02] [INFO] Elev 1 board/deboard done F4
+[2025-09-18 17:18:02] [INFO] Elev 3 doors open F5
+[2025-09-18 17:18:02] [INFO] Elev 3 deboards P49 (1ppl) at F5
+[2025-09-18 17:18:02] [INFO] Elev 1 doors closed F4
+[2025-09-18 17:18:02] [INFO] Elev 3 board/deboard done F5
+[2025-09-18 17:18:02] [INFO] Elev 3 doors closed F5
+[2025-09-18 17:18:02] [INFO] Elev 3 took new call P50 (4ppl) from F8 to F3
+[2025-09-18 17:18:02] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:18:02] [INFO] New call P51 (3ppl): F10->F6. Qsize: 1
+[2025-09-18 17:18:02] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:18:02] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:18:03] [INFO] Elev 3 arrived F8 for service.
+[2025-09-18 17:18:03] [INFO] Elev 3 doors open F8
+[2025-09-18 17:18:03] [INFO] Elev 3 boards P50 (pending) (4ppl) at F8
+[2025-09-18 17:18:03] [INFO]    P50 waited 1s
+[2025-09-18 17:18:03] [INFO] Elev 3 board/deboard done F8
+[2025-09-18 17:18:03] [INFO] Elev 3 doors closed F8
+[2025-09-18 17:18:03] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:18:03] [INFO] New call P52 (1ppl): F2->F5. Qsize: 2
+[2025-09-18 17:18:03] [INFO] Elev 1 took new call P52 (1ppl) from F2 to F5
+[2025-09-18 17:18:03] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:18:03] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:18:03] [INFO] Elev 1 now at F2 (heading DOWN)
+[2025-09-18 17:18:03] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:18:03] [INFO] Elev 1 arrived F2 for service.
+[2025-09-18 17:18:03] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:18:03] [INFO] Elev 1 doors open F2
+[2025-09-18 17:18:03] [INFO] Elev 1 boards P52 (pending) (1ppl) at F2
+[2025-09-18 17:18:03] [INFO]    P52 waited 0s
+[2025-09-18 17:18:03] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:18:03] [INFO] Elev 1 board/deboard done F2
+[2025-09-18 17:18:03] [INFO] Elev 3 arrived F3 for service.
+[2025-09-18 17:18:03] [INFO] Elev 1 doors closed F2
+[2025-09-18 17:18:03] [INFO] Elev 1 now at F3 (heading UP)
+[2025-09-18 17:18:03] [INFO] Elev 3 doors open F3
+[2025-09-18 17:18:03] [INFO] Elev 3 deboards P50 (4ppl) at F3
+[2025-09-18 17:18:04] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:18:04] [INFO] Elev 3 board/deboard done F3
+[2025-09-18 17:18:04] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:18:04] [INFO] Elev 3 doors closed F3
+[2025-09-18 17:18:04] [INFO] Elev 3 took new call P51 (3ppl) from F10 to F6
+[2025-09-18 17:18:04] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:18:04] [INFO] Elev 1 arrived F5 for service.
+[2025-09-18 17:18:04] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:18:04] [INFO] Elev 1 doors open F5
+[2025-09-18 17:18:04] [INFO] Elev 1 deboards P52 (1ppl) at F5
+[2025-09-18 17:18:04] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:18:04] [INFO] New call P53 (2ppl): F1->F9. Qsize: 1
+[2025-09-18 17:18:04] [INFO] Elev 1 board/deboard done F5
+[2025-09-18 17:18:04] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:18:04] [INFO] Elev 1 doors closed F5
+[2025-09-18 17:18:04] [INFO] Elev 1 took new call P53 (2ppl) from F1 to F9
+[2025-09-18 17:18:04] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:18:04] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:18:04] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:18:04] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:18:04] [INFO] Elev 1 now at F2 (heading DOWN)
+[2025-09-18 17:18:04] [INFO] Elev 3 now at F10 (heading UP)
+[2025-09-18 17:18:04] [INFO] Elev 1 now at F1 (heading DOWN)
+[2025-09-18 17:18:04] [INFO] Elev 3 arrived F10 for service.
+[2025-09-18 17:18:05] [INFO] Elev 1 arrived F1 for service.
+[2025-09-18 17:18:05] [INFO] Elev 3 doors open F10
+[2025-09-18 17:18:05] [INFO] Elev 3 boards P51 (pending) (3ppl) at F10
+[2025-09-18 17:18:05] [INFO]    P51 waited 2s
+[2025-09-18 17:18:05] [INFO] Elev 1 doors open F1
+[2025-09-18 17:18:05] [INFO] Elev 1 boards P53 (pending) (2ppl) at F1
+[2025-09-18 17:18:05] [INFO]    P53 waited 0s
+[2025-09-18 17:18:05] [INFO] New call P54 (4ppl): F7->F8. Qsize: 1
+[2025-09-18 17:18:05] [INFO] Elev 3 board/deboard done F10
+[2025-09-18 17:18:05] [INFO] Elev 1 board/deboard done F1
+[2025-09-18 17:18:05] [INFO] Elev 3 doors closed F10
+[2025-09-18 17:18:05] [INFO] Elev 3 now at F9 (heading DOWN)
+[2025-09-18 17:18:05] [INFO] Elev 1 doors closed F1
+[2025-09-18 17:18:05] [INFO] Elev 1 now at F2 (heading UP)
+[2025-09-18 17:18:05] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:18:05] [INFO] Elev 1 now at F3 (heading UP)
+[2025-09-18 17:18:05] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:18:05] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:18:05] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:18:05] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:18:05] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:18:05] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:18:05] [INFO] Elev 3 doors open F6
+[2025-09-18 17:18:05] [INFO] Elev 3 deboards P51 (3ppl) at F6
+[2025-09-18 17:18:05] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:18:05] [INFO] Elev 3 board/deboard done F6
+[2025-09-18 17:18:05] [INFO] New call P55 (2ppl): F5->F1. Qsize: 2
+[2025-09-18 17:18:05] [INFO] Elev 1 now at F8 (heading UP)
+[2025-09-18 17:18:06] [INFO] Elev 3 doors closed F6
+[2025-09-18 17:18:06] [INFO] Elev 3 took new call P54 (4ppl) from F7 to F8
+[2025-09-18 17:18:06] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:18:06] [INFO] Elev 1 now at F9 (heading UP)
+[2025-09-18 17:18:06] [INFO] Elev 3 arrived F7 for service.
+[2025-09-18 17:18:06] [INFO] Elev 1 arrived F9 for service.
+[2025-09-18 17:18:06] [INFO] Elev 3 doors open F7
+[2025-09-18 17:18:06] [INFO] Elev 3 boards P54 (pending) (4ppl) at F7
+[2025-09-18 17:18:06] [INFO]    P54 waited 1s
+[2025-09-18 17:18:06] [INFO] Elev 1 doors open F9
+[2025-09-18 17:18:06] [INFO] Elev 1 deboards P53 (2ppl) at F9
+[2025-09-18 17:18:06] [INFO] Elev 3 board/deboard done F7
+[2025-09-18 17:18:06] [INFO] Elev 1 board/deboard done F9
+[2025-09-18 17:18:06] [INFO] Elev 3 doors closed F7
+[2025-09-18 17:18:06] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:18:06] [INFO] Elev 1 doors closed F9
+[2025-09-18 17:18:06] [INFO] Elev 1 took new call P55 (2ppl) from F5 to F1
+[2025-09-18 17:18:06] [INFO] Elev 1 now at F8 (heading DOWN)
+[2025-09-18 17:18:06] [INFO] Elev 3 arrived F8 for service.
+[2025-09-18 17:18:06] [INFO] Elev 1 now at F7 (heading DOWN)
+[2025-09-18 17:18:06] [INFO] Elev 3 doors open F8
+[2025-09-18 17:18:06] [INFO] Elev 3 deboards P54 (4ppl) at F8
+[2025-09-18 17:18:06] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:18:06] [INFO] Elev 3 board/deboard done F8
+[2025-09-18 17:18:06] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:18:06] [INFO] Elev 3 doors closed F8
+[2025-09-18 17:18:06] [INFO] Elev 1 arrived F5 for service.
+[2025-09-18 17:18:07] [INFO] Elev 1 doors open F5
+[2025-09-18 17:18:07] [INFO] Elev 1 boards P55 (pending) (2ppl) at F5
+[2025-09-18 17:18:07] [INFO]    P55 waited 1s
+[2025-09-18 17:18:07] [INFO] New call P56 (1ppl): F3->F4. Qsize: 1
+[2025-09-18 17:18:07] [INFO] Elev 3 took new call P56 (1ppl) from F3 to F4
+[2025-09-18 17:18:07] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:18:07] [INFO] Elev 1 board/deboard done F5
+[2025-09-18 17:18:07] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:18:07] [INFO] Elev 1 doors closed F5
+[2025-09-18 17:18:07] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:18:07] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:18:07] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:18:07] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:18:07] [INFO] Elev 1 now at F2 (heading DOWN)
+[2025-09-18 17:18:07] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:18:07] [INFO] Elev 1 now at F1 (heading DOWN)
+[2025-09-18 17:18:07] [INFO] Elev 3 arrived F3 for service.
+[2025-09-18 17:18:07] [INFO] Elev 1 arrived F1 for service.
+[2025-09-18 17:18:07] [INFO] Elev 3 doors open F3
+[2025-09-18 17:18:07] [INFO] Elev 3 boards P56 (pending) (1ppl) at F3
+[2025-09-18 17:18:07] [INFO]    P56 waited 0s
+[2025-09-18 17:18:07] [INFO] Elev 1 doors open F1
+[2025-09-18 17:18:07] [INFO] Elev 1 deboards P55 (2ppl) at F1
+[2025-09-18 17:18:07] [INFO] Elev 3 board/deboard done F3
+[2025-09-18 17:18:07] [INFO] Elev 1 board/deboard done F1
+[2025-09-18 17:18:08] [INFO] Elev 3 doors closed F3
+[2025-09-18 17:18:08] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:18:08] [INFO] Elev 1 doors closed F1
+[2025-09-18 17:18:08] [INFO] Elev 3 arrived F4 for service.
+[2025-09-18 17:18:08] [INFO] New call P57 (2ppl): F4->F8. Qsize: 1
+[2025-09-18 17:18:08] [INFO] Elev 1 took new call P57 (2ppl) from F4 to F8
+[2025-09-18 17:18:08] [INFO] Elev 1 now at F2 (heading UP)
+[2025-09-18 17:18:08] [INFO] Elev 3 doors open F4
+[2025-09-18 17:18:08] [INFO] Elev 3 deboards P56 (1ppl) at F4
+[2025-09-18 17:18:08] [INFO] Elev 1 now at F3 (heading UP)
+[2025-09-18 17:18:08] [INFO] Elev 3 board/deboard done F4
+[2025-09-18 17:18:08] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:18:08] [INFO] Elev 3 doors closed F4
+[2025-09-18 17:18:08] [INFO] Elev 1 arrived F4 for service.
+[2025-09-18 17:18:08] [INFO] Elev 1 doors open F4
+[2025-09-18 17:18:08] [INFO] Elev 1 boards P57 (pending) (2ppl) at F4
+[2025-09-18 17:18:08] [INFO]    P57 waited 0s
+[2025-09-18 17:18:08] [INFO] Elev 1 board/deboard done F4
+[2025-09-18 17:18:08] [INFO] Elev 1 doors closed F4
+[2025-09-18 17:18:08] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:18:08] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:18:09] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:18:09] [INFO] Elev 1 now at F8 (heading UP)
+[2025-09-18 17:18:09] [INFO] New call P58 (2ppl): F3->F1. Qsize: 1
+[2025-09-18 17:18:09] [INFO] Elev 3 took new call P58 (2ppl) from F3 to F1
+[2025-09-18 17:18:09] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:18:09] [INFO] Elev 1 arrived F8 for service.
+[2025-09-18 17:18:09] [INFO] Elev 3 arrived F3 for service.
+[2025-09-18 17:18:09] [INFO] Elev 1 doors open F8
+[2025-09-18 17:18:09] [INFO] Elev 1 deboards P57 (2ppl) at F8
+[2025-09-18 17:18:09] [INFO] Elev 3 doors open F3
+[2025-09-18 17:18:09] [INFO] Elev 3 boards P58 (pending) (2ppl) at F3
+[2025-09-18 17:18:09] [INFO]    P58 waited 0s
+[2025-09-18 17:18:09] [INFO] Elev 1 board/deboard done F8
+[2025-09-18 17:18:09] [INFO] Elev 3 board/deboard done F3
+[2025-09-18 17:18:09] [INFO] Elev 1 doors closed F8
+[2025-09-18 17:18:09] [INFO] Elev 3 doors closed F3
+[2025-09-18 17:18:09] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:18:09] [INFO] Elev 3 now at F1 (heading DOWN)
+[2025-09-18 17:18:09] [INFO] Elev 3 arrived F1 for service.
+[2025-09-18 17:18:10] [INFO] Elev 3 doors open F1
+[2025-09-18 17:18:10] [INFO] Elev 3 deboards P58 (2ppl) at F1
+[2025-09-18 17:18:10] [INFO] Elev 3 board/deboard done F1
+[2025-09-18 17:18:10] [INFO] New call P59 (4ppl): F10->F6. Qsize: 1
+[2025-09-18 17:18:10] [INFO] Elev 3 doors closed F1
+[2025-09-18 17:18:10] [INFO] Elev 3 took new call P59 (4ppl) from F10 to F6
+[2025-09-18 17:18:10] [INFO] Elev 3 now at F2 (heading UP)
+[2025-09-18 17:18:10] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:18:10] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:18:10] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:18:10] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:18:10] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:18:10] [INFO] New call P60 (1ppl): F6->F3. Qsize: 1
+[2025-09-18 17:18:10] [INFO] Elev 1 took new call P60 (1ppl) from F6 to F3
+[2025-09-18 17:18:10] [INFO] Elev 1 now at F7 (heading DOWN)
+[2025-09-18 17:18:10] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:18:10] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:18:11] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:18:11] [INFO] Elev 1 arrived F6 for service.
+[2025-09-18 17:18:11] [INFO] Elev 3 now at F10 (heading UP)
+[2025-09-18 17:18:11] [INFO] Elev 1 doors open F6
+[2025-09-18 17:18:11] [INFO] Elev 1 boards P60 (pending) (1ppl) at F6
+[2025-09-18 17:18:11] [INFO]    P60 waited 0s
+[2025-09-18 17:18:11] [INFO] Elev 3 arrived F10 for service.
+[2025-09-18 17:18:11] [INFO] Elev 1 board/deboard done F6
+[2025-09-18 17:18:11] [INFO] Elev 3 doors open F10
+[2025-09-18 17:18:11] [INFO] Elev 3 boards P59 (pending) (4ppl) at F10
+[2025-09-18 17:18:11] [INFO]    P59 waited 1s
+[2025-09-18 17:18:11] [INFO] Elev 1 doors closed F6
+[2025-09-18 17:18:11] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:18:11] [INFO] Elev 3 board/deboard done F10
+[2025-09-18 17:18:11] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:18:11] [INFO] New call P61 (2ppl): F5->F4. Qsize: 1
+[2025-09-18 17:18:11] [INFO] Elev 3 doors closed F10
+[2025-09-18 17:18:11] [INFO] Elev 3 now at F9 (heading DOWN)
+[2025-09-18 17:18:11] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:18:11] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:18:11] [INFO] Elev 1 arrived F3 for service.
+[2025-09-18 17:18:11] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:18:11] [INFO] Elev 1 doors open F3
+[2025-09-18 17:18:11] [INFO] Elev 1 deboards P60 (1ppl) at F3
+[2025-09-18 17:18:11] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:18:11] [INFO] Elev 1 board/deboard done F3
+[2025-09-18 17:18:12] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:18:12] [INFO] Elev 1 doors closed F3
+[2025-09-18 17:18:12] [INFO] Elev 1 took new call P61 (2ppl) from F5 to F4
+[2025-09-18 17:18:12] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:18:12] [INFO] Elev 3 doors open F6
+[2025-09-18 17:18:12] [INFO] Elev 3 deboards P59 (4ppl) at F6
+[2025-09-18 17:18:12] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:18:12] [INFO] Elev 3 board/deboard done F6
+[2025-09-18 17:18:12] [INFO] New call P62 (4ppl): F8->F6. Qsize: 1
+[2025-09-18 17:18:12] [INFO] Elev 1 arrived F5 for service.
+[2025-09-18 17:18:12] [INFO] Elev 3 doors closed F6
+[2025-09-18 17:18:12] [INFO] Elev 3 took new call P62 (4ppl) from F8 to F6
+[2025-09-18 17:18:12] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:18:12] [INFO] Elev 1 doors open F5
+[2025-09-18 17:18:12] [INFO] Elev 1 boards P61 (pending) (2ppl) at F5
+[2025-09-18 17:18:12] [INFO]    P61 waited 0s
+[2025-09-18 17:18:12] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:18:12] [INFO] Elev 1 board/deboard done F5
+[2025-09-18 17:18:12] [INFO] Elev 3 arrived F8 for service.
+[2025-09-18 17:18:12] [INFO] Elev 1 doors closed F5
+[2025-09-18 17:18:12] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:18:12] [INFO] Elev 3 doors open F8
+[2025-09-18 17:18:12] [INFO] Elev 3 boards P62 (pending) (4ppl) at F8
+[2025-09-18 17:18:12] [INFO]    P62 waited 0s
+[2025-09-18 17:18:12] [INFO] Elev 1 arrived F4 for service.
+[2025-09-18 17:18:12] [INFO] Elev 3 board/deboard done F8
+[2025-09-18 17:18:12] [INFO] Elev 1 doors open F4
+[2025-09-18 17:18:12] [INFO] Elev 1 deboards P61 (2ppl) at F4
+[2025-09-18 17:18:12] [INFO] Elev 3 doors closed F8
+[2025-09-18 17:18:12] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:18:12] [INFO] Elev 1 board/deboard done F4
+[2025-09-18 17:18:12] [INFO] New call P63 (2ppl): F2->F7. Qsize: 1
+[2025-09-18 17:18:13] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:18:13] [INFO] Elev 1 doors closed F4
+[2025-09-18 17:18:13] [INFO] Elev 1 took new call P63 (2ppl) from F2 to F7
+[2025-09-18 17:18:13] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:18:13] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:18:13] [INFO] Elev 1 now at F2 (heading DOWN)
+[2025-09-18 17:18:13] [INFO] Elev 3 doors open F6
+[2025-09-18 17:18:13] [INFO] Elev 3 deboards P62 (4ppl) at F6
+[2025-09-18 17:18:13] [INFO] Elev 1 arrived F2 for service.
+[2025-09-18 17:18:13] [INFO] Elev 3 board/deboard done F6
+[2025-09-18 17:18:13] [INFO] Elev 1 doors open F2
+[2025-09-18 17:18:13] [INFO] Elev 1 boards P63 (pending) (2ppl) at F2
+[2025-09-18 17:18:13] [INFO]    P63 waited 0s
+[2025-09-18 17:18:13] [INFO] Elev 3 doors closed F6
+[2025-09-18 17:18:13] [INFO] Elev 1 board/deboard done F2
+[2025-09-18 17:18:13] [INFO] Elev 1 doors closed F2
+[2025-09-18 17:18:13] [INFO] Elev 1 now at F3 (heading UP)
+[2025-09-18 17:18:13] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:18:13] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:18:13] [INFO] New call P64 (3ppl): F7->F10. Qsize: 1
+[2025-09-18 17:18:13] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:18:14] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:18:14] [INFO] Elev 3 took new call P64 (3ppl) from F7 to F10
+[2025-09-18 17:18:14] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:18:14] [INFO] Elev 1 arrived F7 for service.
+[2025-09-18 17:18:14] [INFO] Elev 3 arrived F7 for service.
+[2025-09-18 17:18:14] [INFO] Elev 1 doors open F7
+[2025-09-18 17:18:14] [INFO] Elev 1 deboards P63 (2ppl) at F7
+[2025-09-18 17:18:14] [INFO] Elev 3 doors open F7
+[2025-09-18 17:18:14] [INFO] Elev 3 boards P64 (pending) (3ppl) at F7
+[2025-09-18 17:18:14] [INFO]    P64 waited 0s
+[2025-09-18 17:18:14] [INFO] Elev 1 board/deboard done F7
+[2025-09-18 17:18:14] [INFO] Elev 3 board/deboard done F7
+[2025-09-18 17:18:14] [INFO] Elev 1 doors closed F7
+[2025-09-18 17:18:14] [INFO] Elev 3 doors closed F7
+[2025-09-18 17:18:14] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:18:14] [INFO] New call P65 (2ppl): F1->F9. Qsize: 1
+[2025-09-18 17:18:14] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:18:14] [INFO] Elev 3 now at F10 (heading UP)
+[2025-09-18 17:18:14] [INFO] Elev 1 took new call P65 (2ppl) from F1 to F9
+[2025-09-18 17:18:14] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:18:14] [INFO] Elev 3 arrived F10 for service.
+[2025-09-18 17:18:14] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:18:14] [INFO] Elev 3 doors open F10
+[2025-09-18 17:18:14] [INFO] Elev 3 deboards P64 (3ppl) at F10
+[2025-09-18 17:18:14] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:18:15] [INFO] Elev 3 board/deboard done F10
+[2025-09-18 17:18:15] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:18:15] [INFO] Elev 3 doors closed F10
+[2025-09-18 17:18:15] [INFO] Elev 1 now at F2 (heading DOWN)
+[2025-09-18 17:18:15] [INFO] Elev 1 now at F1 (heading DOWN)
+[2025-09-18 17:18:15] [INFO] Elev 1 arrived F1 for service.
+[2025-09-18 17:18:15] [INFO] Elev 1 doors open F1
+[2025-09-18 17:18:15] [INFO] Elev 1 boards P65 (pending) (2ppl) at F1
+[2025-09-18 17:18:15] [INFO]    P65 waited 1s
+[2025-09-18 17:18:15] [INFO] Elev 1 board/deboard done F1
+[2025-09-18 17:18:15] [INFO] New call P66 (2ppl): F10->F2. Qsize: 1
+[2025-09-18 17:18:15] [INFO] Elev 1 doors closed F1
+[2025-09-18 17:18:15] [INFO] Elev 1 now at F2 (heading UP)
+[2025-09-18 17:18:15] [INFO] Elev 1 now at F3 (heading UP)
+[2025-09-18 17:18:15] [INFO] Elev 3 doors open F10
+[2025-09-18 17:18:15] [INFO] Elev 3 sets dir to DOWN by P66
+[2025-09-18 17:18:15] [INFO] Elev 3 boards P66 (general) (2ppl) at F10
+[2025-09-18 17:18:15] [INFO]    P66 waited 0s
+[2025-09-18 17:18:15] [INFO] Elev 1 now at F4 (heading UP)
+[2025-09-18 17:18:16] [INFO] Elev 3 board/deboard done F10
+[2025-09-18 17:18:16] [INFO] Elev 1 now at F5 (heading UP)
+[2025-09-18 17:18:16] [INFO] Elev 3 doors closed F10
+[2025-09-18 17:18:16] [INFO] Elev 3 now at F9 (heading DOWN)
+[2025-09-18 17:18:16] [INFO] Elev 1 now at F6 (heading UP)
+[2025-09-18 17:18:16] [INFO] New call P67 (4ppl): F2->F10. Qsize: 1
+[2025-09-18 17:18:16] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:18:16] [INFO] Elev 1 now at F7 (heading UP)
+[2025-09-18 17:18:16] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:18:16] [INFO] Elev 1 now at F8 (heading UP)
+[2025-09-18 17:18:16] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:18:16] [INFO] Elev 1 now at F9 (heading UP)
+[2025-09-18 17:18:16] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:18:16] [INFO] Elev 1 arrived F9 for service.
+[2025-09-18 17:18:16] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:18:16] [INFO] New call P68 (4ppl): F6->F5. Qsize: 2
+[2025-09-18 17:18:16] [INFO] Elev 1 doors open F9
+[2025-09-18 17:18:16] [INFO] Elev 1 deboards P65 (2ppl) at F9
+[2025-09-18 17:18:16] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:18:16] [INFO] Elev 3 now at F2 (heading DOWN)
+[2025-09-18 17:18:16] [INFO] Elev 1 board/deboard done F9
+[2025-09-18 17:18:16] [INFO] Elev 3 arrived F2 for service.
+[2025-09-18 17:18:16] [INFO] Elev 1 doors closed F9
+[2025-09-18 17:18:17] [INFO] Elev 3 doors open F2
+[2025-09-18 17:18:17] [INFO] Elev 3 deboards P66 (2ppl) at F2
+[2025-09-18 17:18:17] [INFO] Elev 3 board/deboard done F2
+[2025-09-18 17:18:17] [INFO] Elev 3 doors closed F2
+[2025-09-18 17:18:17] [INFO] Elev 3 took new call P67 (4ppl) from F2 to F10
+[2025-09-18 17:18:17] [INFO] Elev 3 doors open F2
+[2025-09-18 17:18:17] [INFO] Elev 3 boards P67 (pending) (4ppl) at F2
+[2025-09-18 17:18:17] [INFO]    P67 waited 1s
+[2025-09-18 17:18:17] [INFO] Elev 3 board/deboard done F2
+[2025-09-18 17:18:17] [INFO] Elev 3 doors closed F2
+[2025-09-18 17:18:17] [INFO] Elev 3 now at F3 (heading UP)
+[2025-09-18 17:18:17] [INFO] New call P69 (4ppl): F3->F5. Qsize: 2
+[2025-09-18 17:18:17] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:18:17] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:18:17] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:18:18] [INFO] Elev 3 now at F7 (heading UP)
+[2025-09-18 17:18:18] [INFO] Elev 3 now at F8 (heading UP)
+[2025-09-18 17:18:18] [INFO] New call P70 (3ppl): F9->F8. Qsize: 3
+[2025-09-18 17:18:18] [INFO] Elev 3 now at F9 (heading UP)
+[2025-09-18 17:18:18] [INFO] Elev 3 now at F10 (heading UP)
+[2025-09-18 17:18:18] [INFO] Elev 3 arrived F10 for service.
+[2025-09-18 17:18:18] [INFO] Elev 3 doors open F10
+[2025-09-18 17:18:18] [INFO] Elev 3 deboards P67 (4ppl) at F10
+[2025-09-18 17:18:18] [INFO] Elev 3 board/deboard done F10
+[2025-09-18 17:18:18] [INFO] Elev 3 doors closed F10
+[2025-09-18 17:18:18] [INFO] Elev 3 took new call P68 (4ppl) from F6 to F5
+[2025-09-18 17:18:18] [INFO] Elev 3 now at F9 (heading DOWN)
+[2025-09-18 17:18:18] [INFO] Elev 3 arrived F9 for service.
+[2025-09-18 17:18:18] [INFO] New call P71 (3ppl): F5->F6. Qsize: 3
+[2025-09-18 17:18:19] [INFO] Elev 3 doors open F9
+[2025-09-18 17:18:19] [INFO] Elev 3 boards P70 (general) (3ppl) at F9
+[2025-09-18 17:18:19] [INFO]    P70 waited 0s
+[2025-09-18 17:18:19] [INFO] Elev 3 board/deboard done F9
+[2025-09-18 17:18:19] [INFO] Elev 3 doors closed F9
+[2025-09-18 17:18:19] [INFO] Elev 3 now at F8 (heading DOWN)
+[2025-09-18 17:18:19] [INFO] Elev 3 arrived F8 for service.
+[2025-09-18 17:18:19] [INFO] Elev 3 doors open F8
+[2025-09-18 17:18:19] [INFO] Elev 3 deboards P70 (3ppl) at F8
+[2025-09-18 17:18:19] [INFO] Elev 3 board/deboard done F8
+[2025-09-18 17:18:19] [INFO] Elev 3 doors closed F8
+[2025-09-18 17:18:19] [INFO] Elev 3 now at F7 (heading DOWN)
+[2025-09-18 17:18:19] [INFO] Elev 3 now at F6 (heading DOWN)
+[2025-09-18 17:18:19] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:18:20] [INFO] Elev 3 doors open F6
+[2025-09-18 17:18:20] [INFO] Elev 3 boards P68 (pending) (4ppl) at F6
+[2025-09-18 17:18:20] [INFO]    P68 waited 3s
+[2025-09-18 17:18:20] [INFO] New call P72 (1ppl): F8->F2. Qsize: 3
+[2025-09-18 17:18:20] [INFO] Elev 1 took new call P72 (1ppl) from F8 to F2
+[2025-09-18 17:18:20] [INFO] Elev 1 now at F8 (heading DOWN)
+[2025-09-18 17:18:20] [INFO] Elev 3 board/deboard done F6
+[2025-09-18 17:18:20] [INFO] Elev 1 arrived F8 for service.
+[2025-09-18 17:18:20] [INFO] Elev 3 doors closed F6
+[2025-09-18 17:18:20] [INFO] Elev 3 now at F5 (heading DOWN)
+[2025-09-18 17:18:20] [INFO] Elev 1 doors open F8
+[2025-09-18 17:18:20] [INFO] Elev 1 boards P72 (pending) (1ppl) at F8
+[2025-09-18 17:18:20] [INFO]    P72 waited 0s
+[2025-09-18 17:18:20] [INFO] Elev 3 arrived F5 for service.
+[2025-09-18 17:18:20] [INFO] Elev 1 board/deboard done F8
+[2025-09-18 17:18:20] [INFO] Elev 3 doors open F5
+[2025-09-18 17:18:20] [INFO] Elev 3 deboards P68 (4ppl) at F5
+[2025-09-18 17:18:20] [INFO] Elev 1 doors closed F8
+[2025-09-18 17:18:20] [INFO] Elev 1 now at F7 (heading DOWN)
+[2025-09-18 17:18:20] [INFO] New call P73 (2ppl): F7->F6. Qsize: 3
+[2025-09-18 17:18:20] [INFO] Elev 3 board/deboard done F5
+[2025-09-18 17:18:20] [INFO] Elev 1 now at F6 (heading DOWN)
+[2025-09-18 17:18:20] [INFO] Elev 3 doors closed F5
+[2025-09-18 17:18:20] [INFO] Elev 3 took new call P69 (4ppl) from F3 to F5
+[2025-09-18 17:18:20] [INFO] Elev 3 now at F4 (heading DOWN)
+[2025-09-18 17:18:20] [INFO] User 'exit' cmd.
+[2025-09-18 17:18:20] [INFO] Stop signal received. Notifying components.
+[2025-09-18 17:18:20] [INFO] Elev 2 stopped. Load: 0
+[2025-09-18 17:18:20] [INFO] Elev 1 now at F5 (heading DOWN)
+[2025-09-18 17:18:20] [INFO] Elev 3 now at F3 (heading DOWN)
+[2025-09-18 17:18:20] [INFO] Elev 1 now at F4 (heading DOWN)
+[2025-09-18 17:18:20] [INFO] Elev 3 arrived F3 for service.
+[2025-09-18 17:18:20] [INFO] Elev 1 now at F3 (heading DOWN)
+[2025-09-18 17:18:21] [INFO] Elev 3 doors open F3
+[2025-09-18 17:18:21] [INFO] Elev 3 boards P69 (pending) (4ppl) at F3
+[2025-09-18 17:18:21] [INFO]    P69 waited 3s
+[2025-09-18 17:18:21] [INFO] Elev 1 now at F2 (heading DOWN)
+[2025-09-18 17:18:21] [INFO] Call generation stopped.
+[2025-09-18 17:18:21] [INFO] Elev 3 board/deboard done F3
+[2025-09-18 17:18:21] [INFO] Elev 1 arrived F2 for service.
+[2025-09-18 17:18:21] [INFO] Elev 3 doors closed F3
+[2025-09-18 17:18:21] [INFO] Elev 3 now at F4 (heading UP)
+[2025-09-18 17:18:21] [INFO] Elev 1 doors open F2
+[2025-09-18 17:18:21] [INFO] Elev 1 deboards P72 (1ppl) at F2
+[2025-09-18 17:18:21] [INFO] Elev 1 stopped. Load: 0
+[2025-09-18 17:18:21] [INFO] Elev 3 now at F5 (heading UP)
+[2025-09-18 17:18:21] [INFO] Elev 3 arrived F5 for service.
+[2025-09-18 17:18:21] [INFO] Elev 3 doors open F5
+[2025-09-18 17:18:21] [INFO] Elev 3 deboards P69 (4ppl) at F5
+[2025-09-18 17:18:21] [INFO] Elev 3 boards P71 (general) (3ppl) at F5
+[2025-09-18 17:18:21] [INFO]    P71 waited 2s
+[2025-09-18 17:18:21] [INFO] Elev 3 board/deboard done F5
+[2025-09-18 17:18:21] [INFO] Elev 3 doors closed F5
+[2025-09-18 17:18:21] [INFO] Elev 3 now at F6 (heading UP)
+[2025-09-18 17:18:21] [INFO] Elev 3 arrived F6 for service.
+[2025-09-18 17:18:22] [INFO] Elev 3 doors open F6
+[2025-09-18 17:18:22] [INFO] Elev 3 deboards P71 (3ppl) at F6
+[2025-09-18 17:18:22] [INFO] Elev 3 stopped. Load: 0
+[2025-09-18 17:18:22] [INFO] All elevators finished. Simulation ended.
+[2025-09-18 17:18:22] [INFO] --- Final Stats ---
+[2025-09-18 17:18:22] [INFO] Total Ppl Transported (all elevs): 176
+[2025-09-18 17:18:22] [INFO] Total Floors (all elevs): 454
+[2025-09-18 17:18:22] [INFO] Avg Group Wait: 1.047069s.

@@ -1,0 +1,12 @@
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/sys_prog.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/lab1_7.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/lab1_3.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/lab1_5.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/lab1_1.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/lab1_2.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/server_4.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/client_4.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/server_6.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/client_6.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug/CMakeFiles/rebuild_cache.dir

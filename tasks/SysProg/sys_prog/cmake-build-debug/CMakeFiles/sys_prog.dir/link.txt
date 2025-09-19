@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/sys_prog.dir/lab1_1.c.o -o sys_prog 

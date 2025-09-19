@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sys_prog",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "client_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_4-Debug-f182301e4a26a23c271c.json",
+					"name" : "client_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "client_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_6-Debug-a9bead6cb289abe3f67b.json",
+					"name" : "client_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab1_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab1_1-Debug-d42e6fc3bc869a0f8011.json",
+					"name" : "lab1_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab1_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab1_2-Debug-054848a9a973001cc4cb.json",
+					"name" : "lab1_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab1_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab1_3-Debug-168f702d013a10c86bbf.json",
+					"name" : "lab1_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab1_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab1_5-Debug-0dd4f1b19e1e48108062.json",
+					"name" : "lab1_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab1_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab1_7-Debug-ce9709287c13e403092f.json",
+					"name" : "lab1_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_4-Debug-07c96e546dbc9ba93b7d.json",
+					"name" : "server_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_6-Debug-987e3245200887ee392b.json",
+					"name" : "server_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sys_prog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sys_prog-Debug-700c6e2c1fa8c1ffa06c.json",
+					"name" : "sys_prog",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog/cmake-build-debug",
+		"source" : "/mnt/c/Users/senya/CLionProjects/FundAlg_2025_4SEM/tasks/sys_prog"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
